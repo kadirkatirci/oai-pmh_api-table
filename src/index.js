@@ -21,3 +21,5 @@ new gridjs.Grid({
     }
   }).render(document.getElementById("wrapper"));
   
+  console.log(res);
+  console.log(data);
