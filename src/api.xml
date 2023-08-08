@@ -14,7 +14,7 @@
                 <setSpec>col_20.500.12452_88</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İlkokul kaynaştırma (bütünleştirme) sınıflarında öğrenim gören hafif düzey zihin engelli ve normal gelişim gösteren son sınıf öğrencilerinin okuduğunu anlama düzeylerinin karşılaştırmalı olarak incelenmesi</dc:title>
                     <dc:title>Examining of reading comprehension levels of students with mild- intellectual disabilities in comparison with normally developed students comprehension levels who are educated in primary inclusion classes</dc:title>
                     <dc:creator>Yüksel, Aylin</dc:creator>
@@ -41,15 +41,15 @@
                     <dc:date>2021-01-04T07:59:48Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-06-12</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Yüksel, A. (2019). İlkokul kaynaştırma (bütünleştirme) sınıflarında öğrenim gören hafif düzey zihin engelli ve normal gelişim gösteren son sınıf öğrencilerinin okuduğunu anlama düzeylerinin karşılaştırmalı olarak incelenmesi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Özel Eğitim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6841</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -64,7 +64,7 @@
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Aliağa İlçesinde Arazi Kullanımına Etki Eden Doğal Ve Beşeri Faktörler</dc:title>
                     <dc:title>The Natural and Humanitarian Factors Affecting the Land Use in Aliağa</dc:title>
                     <dc:creator>Eroğlu, İlker</dc:creator>
@@ -86,7 +86,7 @@
                     <dc:date>2020-01-18T21:03:19Z</dc:date>
                     <dc:date>2020-01-18T21:03:19Z</dc:date>
                     <dc:date>2013</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Eroğlu, İ., Bozyiğit, R. (2013). Aliağa İlçesinde Arazi Kullanımına Etki Eden Doğal Ve Beşeri Faktörler. International Journal of Geography and Geography Education. 0, 27,  353-400.</dc:identifier>
                     <dc:identifier>1303-2429</dc:identifier>
                     <dc:identifier>1303-2429</dc:identifier>
@@ -96,12 +96,12 @@
                     <dc:identifier>27</dc:identifier>
                     <dc:identifier>353</dc:identifier>
                     <dc:identifier>400</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>MARMARA COĞRAFYA DERGİSİ</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -114,7 +114,7 @@
                 <setSpec>col_20.500.12452_599</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Türk resim sanatında 1980'den sonra portre soyutlamaları</dc:title>
                     <dc:title>After 1980 in Turkish painting abstract portrait art</dc:title>
                     <dc:creator>Küçükönder, Samet</dc:creator>
@@ -133,15 +133,15 @@
                     <dc:date>2020-11-04T11:46:15Z</dc:date>
                     <dc:date>2020-11-04T11:46:15Z</dc:date>
                     <dc:date>2019</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Küçükönder, S. (2019). Türk resim sanatında 1980'den sonra portre soyutlamaları. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Resim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4857</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -154,7 +154,7 @@
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Ez-Zeccâc ve Kitâbu Fe'altü Ef'altü adlı eserinin içerik ve yöntem açısından incelenmesi</dc:title>
                     <dc:title>Ebu İshak ez-Zeccac and his work Kitabu Fe'altu ve Ef'altu in terms of content and method</dc:title>
                     <dc:creator>Özkal, Ramazan</dc:creator>
@@ -173,14 +173,14 @@
                     <dc:date>2019-09-20T06:51:49Z</dc:date>
                     <dc:date>2019-09-20T06:51:49Z</dc:date>
                     <dc:date>2016</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/902</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -193,7 +193,7 @@
                 <setSpec>col_20.500.12452_156</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Kıbrıslı Türklerin dini yaşayışları üzerine karşılaştırmalı bir araştırma (Güzelyurt örneği)</dc:title>
                     <dc:title>A comparative research on the religious livesof Turkish Cypriots (example of Morphou)</dc:title>
                     <dc:creator>Sezgin, İsmail</dc:creator>
@@ -219,15 +219,15 @@
                     <dc:date>2020-10-27T06:39:59Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-07-01</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Sezgin, İ. (2019). Kıbrıslı Türklerin dini yaşayışları üzerine karşılaştırmalı bir araştırma (Güzelyurt örneği). (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Felsefe ve Din Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4502</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -241,7 +241,7 @@
                 <setSpec>col_20.500.12452_5412</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Solunum yetmezlikli hastalarda noninvaziv mekanik ventilasyonun mortaliteye etkisi ve başarıyı etkileyen faktörler</dc:title>
                     <dc:title>Noninvaziv mechanic ventilation affects on mortality and the factors to be succesfull in respiratory failure</dc:title>
                     <dc:creator>Duran, Ümmüye</dc:creator>
@@ -262,14 +262,14 @@
                     <dc:date>2020-12-09T07:32:16Z</dc:date>
                     <dc:date>2020-12-09T07:32:16Z</dc:date>
                     <dc:date>2010</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Duran, Ü. (2010). Solunum yetmezlikli hastalarda noninvaziv mekanik ventilasyonun mortaliteye etkisi ve başarıyı etkileyen faktörler. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Dahili Tıp Bilimleri Göğüs Hastalıkları Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/5892</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -288,7 +288,7 @@
                 <setSpec>col_20.500.12452_1224</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Homocysteine levels in patients with masked hypertension</dc:title>
                     <dc:creator>Yücel, Kamile</dc:creator>
                     <dc:creator>Bekçi, Taha Tahir</dc:creator>
@@ -307,7 +307,7 @@
                     <dc:date>2020-01-18T21:02:57Z</dc:date>
                     <dc:date>2020-01-18T21:02:57Z</dc:date>
                     <dc:date>2014</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Kayrak, M., Yücel, K., Bekçi, T. T., Taner, A., Korucu, E. N., Unlü, A. (2014). Homocysteine levels in patients with masked hypertension. Anadolu Kardiyoloji Dergisi, 14, 4, 357-362.</dc:identifier>
                     <dc:identifier>2149-2263</dc:identifier>
                     <dc:identifier>2149-2271</dc:identifier>
@@ -317,12 +317,12 @@
                     <dc:identifier>4</dc:identifier>
                     <dc:identifier>357</dc:identifier>
                     <dc:identifier>362</dc:identifier>
-                    <dc:language>eng</dc:language>
+                    <language>eng</language>
                     <dc:relation>Anadolu Kardiyoloji Dergisi</dc:relation>
                     <dc:relation>Makale - Uluslararası Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -337,7 +337,7 @@
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Öğretmen  adaylarının bireysel yenilikçilik özelliklerinin  farklı değişkenler  açısından  incelenmesi</dc:title>
                     <dc:title>Examination of teacher candidates individual ınnovativeness properties from the different variables</dc:title>
                     <dc:creator>Korucu, Agâh Tuğrul</dc:creator>
@@ -363,7 +363,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                     <dc:date>2020-01-18T21:04:53Z</dc:date>
                     <dc:date>2020-01-18T21:04:53Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Korucu, A. T., Olpak, Y. Z. (2015). Öğretmen  adaylarının bireysel yenilikçilik özelliklerinin  farklı değişkenler  açısından  incelenmesi. Eğitim Teknolojisi Kuram ve Uygulama, 5, 1, 111-127.</dc:identifier>
                     <dc:identifier>2147-1908</dc:identifier>
                     <dc:identifier>https://app.trdizin.gov.tr/makale/TWpBMk1qSXlNZz09/ogretmen-adaylarinin-bireysel-yenilikcilik-ozelliklerinin-farkli-degiskenler-acisindan-incelenmesi-</dc:identifier>
@@ -372,12 +372,12 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>111</dc:identifier>
                     <dc:identifier>127</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Eğitim Teknolojisi Kuram ve Uygulama</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -392,7 +392,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Predictive Relationships Between Secondary School Students Human Values, Motivational Beliefs, And Self-Regulated Learning Strategies</dc:title>
                     <dc:title>Orta öğretim öğrencilerinin insani değerleri, motivasyonel inançları ve öz-düzenleme stratejileri arasındaki yordayıcı İlişkiler</dc:title>
                     <dc:creator>Tanrıseven, Işıl</dc:creator>
@@ -409,7 +409,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                     <dc:date>2020-01-18T21:05:05Z</dc:date>
                     <dc:date>2020-01-18T21:05:05Z</dc:date>
                     <dc:date>2013</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Tanrıseven, I., Dilmaç, B. (2014). Predictive Relationships between Secondary School Students' Human Values, Motivational Beliefs, and Self-Regulated Learning Strategies. Kuram ve Uygulamada Eğitim Bilimleri. 13, 1, 29-36.</dc:identifier>
                     <dc:identifier>1303-0485</dc:identifier>
                     <dc:identifier>2148-7561</dc:identifier>
@@ -419,12 +419,12 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>21</dc:identifier>
                     <dc:identifier>36</dc:identifier>
-                    <dc:language>eng</dc:language>
+                    <language>eng</language>
                     <dc:relation>Kuram ve Uygulamada Eğitim Bilimleri</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -439,7 +439,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>68-72 Aylık Okul Öncesine ve İlkokula Devam Eden Çocukların Okula Uyum ve Öğretmenleriyle İlişkilerinin Karşılaştırılması</dc:title>
                     <dc:title>The Comparison of 68-72 Months Pre-School and Primary School Children'sRelationships with Their Teachers and Their School Adjustment</dc:title>
                     <dc:creator>Ogelman, Hülya Gülay</dc:creator>
@@ -463,7 +463,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                     <dc:date>2020-01-18T21:04:30Z</dc:date>
                     <dc:date>2020-01-18T21:04:30Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Seçer, Z., Ogelman, H. G., Gündoğan, A., Bademci, D. (2015). 68-72 aylık okul öncesine ve ilkokula devam eden çocukların okula uyum ve öğretmenleriyle ilişkilerinin karşılaştırılması. Ondokuz Mayıs Üniversitesi Eğitim Fakültesi Dergisi, 34, 1,  1-17.</dc:identifier>
                     <dc:identifier>1300-302X</dc:identifier>
                     <dc:identifier>2548-0278</dc:identifier>
@@ -473,12 +473,12 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>17</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Ondokuz Mayıs Üniversitesi Eğitim Fakültesi Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -491,7 +491,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_558</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Endoplazmik Retikulum Stresine Maruz Bırakılan Arabıdopsis Thalıana’da Dışarıdan Uygulanan Kurkuminin Antioksidan Enzim/İzozim Profillemesi Üzerine Etkileri</dc:title>
                     <dc:title>The Effects on Antıoxidant Enzyme/Isozyme Profiling of Exogenous Application of Curcumin in Arabıdopsis Thaliana Exposed to Endoplasmic Reticulum Stress</dc:title>
                     <dc:creator>Yalçınkaya Cankurt, Merve</dc:creator>
@@ -514,15 +514,15 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                     <dc:date>2021-08-19T13:24:10Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-01-26</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Yalçınkaya Cankurt, M. (2021). Endoplazmik retikulum stresine maruz bırakılan Arabıdopsis Thaliana’da dışarıdan uygulanan kurkuminin antioksidan enzim/izozim profillemesi üzerine etkileri. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü Moleküler Biyoloji ve Genetik Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7724</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -535,7 +535,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_83</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Uzaktan Eğitimde Tarih Öğretimi ve Karşılaşılan Sorunlar</dc:title>
                     <dc:title>History Teaching and Problems Encountered in Distance Education</dc:title>
                     <dc:creator>Altuntaş, Yavuz Sabri</dc:creator>
@@ -603,15 +603,15 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:date>2022-04-20T06:39:56Z</dc:date>
                     <dc:date>2022</dc:date>
                     <dc:date>2022-02-01</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Altuntaş, Y. S. (2022). Uzaktan eğitimde tarih öğretimi ve karşılaşılan sorunlar. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Türkçe ve Sosyal Bilimler Eğitimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8363</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -624,7 +624,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Oyun terapisiyle bütünleştirilmiş grupla psikolojik danışmanın ilkokul öğrencilerinin sosyal kaygı düzeylerine etkisi</dc:title>
                     <dc:title>The effects of group counseling integrated with play therapy on social anxiety levels of children at primary school</dc:title>
                     <dc:creator>Teke, Esra</dc:creator>
@@ -648,15 +648,15 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:date>2020-12-28T10:36:31Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-02-22</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Teke, E. (2019). Oyun terapisiyle bütünleştirilmiş grupla psikolojik danışmanın ilkokul öğrencilerinin sosyal kaygı düzeylerine etkisi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Eğitim Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6802</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -669,7 +669,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_152</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>1980 Sonrası İslamcı Dergilerde Kadın ve Kadının Çalışma Hayatı: Kadın Kimliği Dergisi Örneği</dc:title>
                     <dc:title>Women and Theirworking Life in Islamic Magazines After the Eighties: An Example of Kadın Kimliği (Women’s Identity)</dc:title>
                     <dc:creator>Yıldırım, Fadime</dc:creator>
@@ -693,15 +693,15 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:date>2021-08-27T11:03:19Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-05-26</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Yıldırım, F. (2021). 1980 sonrası islamcı dergilerde kadın ve kadının çalışma hayatı: kadın kimliği dergisi örneği. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Sosyoloji Anabilim Dalı, Konya</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7752</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -719,7 +719,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_8969</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Abdullah b. Muhammed eş-Şebrâvî (ö. 1171-1758) ve Ehli Beyt hakkındaki şiirleri</dc:title>
                     <dc:title>Abdullah B. Muhammad Al-Shabrawı and his poems about Ahl Al-Beyt</dc:title>
                     <dc:creator>İyişenyürek, Orhan</dc:creator>
@@ -740,7 +740,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:date>2023-04-07T10:57:05Z</dc:date>
                     <dc:date>2023-04-07T10:57:05Z</dc:date>
                     <dc:date>2020</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>İyişenyürek, O. (2020). Abdullah b. Muhammed eş-Şebrâvî (ö. 1171-1758) ve Ehli Beyt hakkındaki Şiirleri. Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi, 49, 49, 173-208.</dc:identifier>
                     <dc:identifier>2149-0015</dc:identifier>
                     <dc:identifier>2148-9890</dc:identifier>
@@ -749,13 +749,13 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:identifier>49</dc:identifier>
                     <dc:identifier>173</dc:identifier>
                     <dc:identifier>208</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -768,7 +768,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İmam Mâtürîdî'ye göre haberî sıfatlar</dc:title>
                     <dc:title>Attributes al-Akhbar according to İmam Maturidi</dc:title>
                     <dc:creator>Kutman Uulu, Melis</dc:creator>
@@ -796,15 +796,15 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:date>2021-04-07T12:17:05Z</dc:date>
                     <dc:date>2018</dc:date>
                     <dc:date>2018-06-04</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Kutman Uulu, M. (2018). İmam Mâtürîdî'ye göre haberî sıfatlar. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Temel İslam Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7302</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -822,7 +822,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_9420</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Interpretation of the Quran in contemporary Indonesia a study on M. Quraish Shihab and his work “Tafsir Al-Mishbāh”</dc:title>
                     <dc:title>Çağdaş Endoneyza’da Kur’an Tefsiri: M.Quraish Shihab ve “Tafsir Al Mishbah” adlı eseri üzerine bir çalışma üzerine</dc:title>
                     <dc:creator>Andriawan, Didik</dc:creator>
@@ -846,7 +846,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:date>2023-04-14T10:50:17Z</dc:date>
                     <dc:date>2023-04-14T10:50:17Z</dc:date>
                     <dc:date>2021</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Andriawan, D. (2022). Interpretation of the Quran in contemporary Indonesia a study on M. Quraish Shihab and his work “Tafsir Al-Mishbāh”. Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi, 52, 1, 1-19.</dc:identifier>
                     <dc:identifier>2148-9890</dc:identifier>
                     <dc:identifier>2149-0015</dc:identifier>
@@ -855,13 +855,13 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>19</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi</dc:relation>
                     <dc:relation>Konferans Öğesi - Uluslararası - İdari Personel ve Öğrenci</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -874,7 +874,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_597</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Ebüzziyâ Mehmed Tevfik Bey’in Hayatı ve Hat Eserleri</dc:title>
                     <dc:title>Life and Calligraphic Works of Ebuzziya Mehmed Tevfik Bey</dc:title>
                     <dc:creator>Selalmaz, Serkan</dc:creator>
@@ -925,15 +925,15 @@ and architectural works in terms of calligraphy aesthetics.</dc:description>
                     <dc:date>2022-08-11T05:59:57Z</dc:date>
                     <dc:date>2022-08-11T05:59:57Z</dc:date>
                     <dc:date>2022</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Selalmaz, S. (2022). Ebüzziyyâ Mehmed Tevfik Bey’in hayatı ve hat eserleri. (Yayınlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Geleneksel Türk Sanatları Ana Bilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8482</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -946,7 +946,7 @@ and architectural works in terms of calligraphy aesthetics.</dc:description>
                 <setSpec>col_20.500.12452_549</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Disleksili öğrencilerle çalışan öğretmenler için geliştirilen eğitim programının öğretmen yeterliklerine etkisinin incelenmesi</dc:title>
                     <dc:title>The effectiveness of training program developed for teachers working with dyslexic students on their competencies</dc:title>
                     <dc:creator>Kızılkaya, Hasan</dc:creator>
@@ -974,15 +974,15 @@ and architectural works in terms of calligraphy aesthetics.</dc:description>
                     <dc:date>2021-04-01T12:34:04Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-01-08</dc:date>
-                    <dc:type>doctoralThesis</dc:type>
+                    <type>doctoralThesis</type>
                     <dc:identifier>Kızılkaya, H. (2021). Disleksili öğrencilerle çalışan öğretmenler için geliştirilen eğitim programının öğretmen yeterliklerine etkisinin incelenmesi. (Yayınlanmamış Doktora Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Özel Eğitim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7182</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -995,7 +995,7 @@ and architectural works in terms of calligraphy aesthetics.</dc:description>
                 <setSpec>col_20.500.12452_598</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Rekreasyonel Aktivitelere Katılımın Ekolojik Tutum Açısından Değerlendirilmesi</dc:title>
                     <dc:title>Evaluation of Participation in Recreational Activities in Terms of Ecological Attitude</dc:title>
                     <dc:creator>Bayrak, Ali</dc:creator>
@@ -1069,15 +1069,15 @@ used to detect significant groups (α = 0.05).</dc:description>
                     <dc:date>2022-01-26T07:47:30Z</dc:date>
                     <dc:date>2022-01-26T07:47:30Z</dc:date>
                     <dc:date>18.11.2021</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Bayrak, A. (2021). Rekreasyonel aktivitelere katılımın ekolojik tutum açısından değerlendirilmesi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Rekreasyon Yönetimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8074</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1095,7 +1095,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Behçet Hastalığında Üst Ekstremite Trombozu</dc:title>
                     <dc:title>Upper extremity thrombosis in Behçets disease</dc:title>
                     <dc:creator>Küçük, Adem</dc:creator>
@@ -1120,7 +1120,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                     <dc:date>2020-01-18T21:04:40Z</dc:date>
                     <dc:date>2020-01-18T21:04:40Z</dc:date>
                     <dc:date>2013</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Küçük, A., Albayrak, İ., Bağçacı, S., Küçükşen, S., Tunç, R. (2013). Behçet Hastalığında Üst Ekstremite Trombozu. Dicle Tıp Dergisi. 40, 3, 507-509.</dc:identifier>
                     <dc:identifier>1300-2945</dc:identifier>
                     <dc:identifier>1308-9889</dc:identifier>
@@ -1130,12 +1130,12 @@ used to detect significant groups (α = 0.05).</dc:description>
                     <dc:identifier>3</dc:identifier>
                     <dc:identifier>507</dc:identifier>
                     <dc:identifier>509</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Dicle Tıp Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1148,7 +1148,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_152</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Milli Görüş Hareketinde Bir Kırılma Noktası Olarak 28 Şubat Süreci</dc:title>
                     <dc:title>February 28 Process as a Breaking Point in the Movement of National Idea</dc:title>
                     <dc:creator>Bakırtaş, Naciye</dc:creator>
@@ -1172,15 +1172,15 @@ used to detect significant groups (α = 0.05).</dc:description>
                     <dc:date>2022-01-27T07:00:20Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-11-05</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Bakırtaş, N. (2021). Milli Görüş hareketinde bir kırılma noktası olarak 28 Şubat süreci. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Sosyoloji Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8092</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1198,7 +1198,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_9426</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Ahkam Tefsirleri ve özellikleri</dc:title>
                     <dc:title>Ahkam Commentaries and their features</dc:title>
                     <dc:creator>Gökmenoğlu, Hüseyin Tekin</dc:creator>
@@ -1212,7 +1212,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                     <dc:date>2023-05-29T08:16:53Z</dc:date>
                     <dc:date>2023-05-29T08:16:53Z</dc:date>
                     <dc:date>1994</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Gökmenoğlu, H.T. (1994). Ahkam Tefsirleri ve özellikleri. Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi, 5, 5, 203-218.</dc:identifier>
                     <dc:identifier>2148-9890</dc:identifier>
                     <dc:identifier>2149-0015</dc:identifier>
@@ -1221,13 +1221,13 @@ used to detect significant groups (α = 0.05).</dc:description>
                     <dc:identifier>5</dc:identifier>
                     <dc:identifier>203</dc:identifier>
                     <dc:identifier>218</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Başka Kurum Yazarı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1240,7 +1240,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Bilim sanat merkezlerinde bilim etkinliklerinden faydalanan üstün zekalı öğrencilerin bilim okuryazarlığının analizi</dc:title>
                     <dc:title>Analysis of gifted students' scientific literacy who benefit from scientific acitivities in science and art centres</dc:title>
                     <dc:creator>Kömek, Emre</dc:creator>
@@ -1257,15 +1257,15 @@ used to detect significant groups (α = 0.05).</dc:description>
                     <dc:date>2019-12-11T08:11:33Z</dc:date>
                     <dc:date>2019-12-11T08:11:33Z</dc:date>
                     <dc:date>2012</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Diğer</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/1200</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1283,7 +1283,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_8705</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Nazarât fi teaddiyyi’l-fi’l ve lüzûmihî fi’s-sahâfeti’l-Mısriyye (II)</dc:title>
                     <dc:title>Mısır basınında kullanılan fiillere geçişlilik ve geçişsizlik yönüyle bir bakış</dc:title>
                     <dc:title>(II) نظرات في تعدي الفعل ولزومه في الصحافة المصرية</dc:title>
@@ -1314,7 +1314,7 @@ kabul edilebilir bir gerekçesinin (dayanağının) olması mümkündür.</dc:de
                     <dc:date>2022-12-01T08:34:30Z</dc:date>
                     <dc:date>2022-12-01T08:34:30Z</dc:date>
                     <dc:date>2014</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Ahmed, A. R. A. (2014). Nazarât fi teaddiyyi’l-fi’l ve lüzûmihî fi’s-sahâfeti’l-Mısriyye (II). Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi, 38, 38, 101-140.</dc:identifier>
                     <dc:identifier>2148-9890</dc:identifier>
                     <dc:identifier>2149-0015</dc:identifier>
@@ -1323,13 +1323,13 @@ kabul edilebilir bir gerekçesinin (dayanağının) olması mümkündür.</dc:de
                     <dc:identifier>38</dc:identifier>
                     <dc:identifier>101</dc:identifier>
                     <dc:identifier>140</dc:identifier>
-                    <dc:language>ara</dc:language>
+                    <language>ara</language>
                     <dc:relation>Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi</dc:relation>
                     <dc:relation>Makale - Uluslararası Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1342,7 +1342,7 @@ kabul edilebilir bir gerekçesinin (dayanağının) olması mümkündür.</dc:de
                 <setSpec>col_20.500.12452_146</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İslamofobi; Bosna Hersek Savaşı örneği</dc:title>
                     <dc:title>Islamofobi; Bosnia and Herzegovina War example</dc:title>
                     <dc:creator>Özkan, Tuba</dc:creator>
@@ -1405,15 +1405,15 @@ a role in this war were examined.</dc:description>
                     <dc:date>2023-01-18T08:41:22Z</dc:date>
                     <dc:date>2022</dc:date>
                     <dc:date>2022</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Özkan, T. (2022). İslamofobi; Bosna Hersek Savaşı örneği. (Yayımlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Siyaset Bilimi ve Kamu Yönetimi Ana Bilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/9044</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1431,7 +1431,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Beş yıllık yama testi sonuçlarımız</dc:title>
                     <dc:title>Five year patch test results</dc:title>
                     <dc:creator>Şahin, Tahir Kemal</dc:creator>
@@ -1451,7 +1451,7 @@ a role in this war were examined.</dc:description>
                     <dc:date>2020-01-18T21:03:24Z</dc:date>
                     <dc:date>2020-01-18T21:03:24Z</dc:date>
                     <dc:date>2012</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Şahin, T. K., Daye, M., Uçar-Tavlı, Y., Mevlitoğlu, İ. (2012). Beş yıllık yama testi sonuçlarımız. Genel Tıp Dergisi, 22, 1, 16-20.</dc:identifier>
                     <dc:identifier>2602-3741</dc:identifier>
                     <dc:identifier>https://app.trdizin.gov.tr/makale/TVRNeU1qZzJOZz09/bes-yillik-yama-testi-sonuclarimiz</dc:identifier>
@@ -1460,12 +1460,12 @@ a role in this war were examined.</dc:description>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>16</dc:identifier>
                     <dc:identifier>20</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Genel Tıp Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1481,7 +1481,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Coexistence Of Migraine Headache And Red Ear Syndrome</dc:title>
                     <dc:title>Kırmızı Kulak Sendromu İle Birliktelik Gösteren Migren Baş Ağrısı</dc:title>
                     <dc:creator>Uca, Ali Ulvi</dc:creator>
@@ -1495,7 +1495,7 @@ a role in this war were examined.</dc:description>
                     <dc:date>2020-01-18T21:02:45Z</dc:date>
                     <dc:date>2020-01-18T21:02:45Z</dc:date>
                     <dc:date>2014</dc:date>
-                    <dc:type>letter</dc:type>
+                    <type>letter</type>
                     <dc:identifier>Uca, A. U., Kozak, H. H. (2014). Coexistence of Migraine Headache and Red Ear Syndrome. Noro Psikiyatri Arsivi, 51, 3, 294-294.</dc:identifier>
                     <dc:identifier>1309-4866</dc:identifier>
                     <dc:identifier>1309-4866</dc:identifier>
@@ -1505,12 +1505,12 @@ a role in this war were examined.</dc:description>
                     <dc:identifier>3</dc:identifier>
                     <dc:identifier>294</dc:identifier>
                     <dc:identifier>294</dc:identifier>
-                    <dc:language>eng</dc:language>
+                    <language>eng</language>
                     <dc:relation>Nöropsikiyatri Arşivi</dc:relation>
                     <dc:relation>Diğer</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1523,7 +1523,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Tebliğ Cemaati'nin Afganistan'daki faaliyetleri</dc:title>
                     <dc:title>The activities of Tablighi Jamaat in Afghanistan</dc:title>
                     <dc:creator>Mubashir, Bibi Samia</dc:creator>
@@ -1543,15 +1543,15 @@ a role in this war were examined.</dc:description>
                     <dc:date>2023-08-03T10:56:31Z</dc:date>
                     <dc:date>2023</dc:date>
                     <dc:date>2022-12-30</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Mubashir, B. S. (2023). Tebliğ Cemaati'nin Afganistan'daki faaliyetleri. (Yayımlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Temel İslam Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/9986</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1565,7 +1565,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_3299</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Ekzojen obez çocuk ve adolesanlarda subklinik hipotiroidi sıklığının değerlendirilmesi</dc:title>
                     <dc:title>Evaluation of the prevalence of subclinical hypothyroidism in exogenous obese children and adolescents</dc:title>
                     <dc:creator>Özelbaykal, Gülsena</dc:creator>
@@ -1581,15 +1581,15 @@ a role in this war were examined.</dc:description>
                     <dc:date>2020-11-12T10:38:01Z</dc:date>
                     <dc:date>2020</dc:date>
                     <dc:date>2020</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Özelbaykal, G. (2020. Ekzojen obez çocuk ve adolesanlarda subklinik hipotiroidi sıklığının değerlendirilmesi (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Dahili Tıp Bilimleri Çocuk Sağlığı ve Hastalıkları Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/5366</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1602,7 +1602,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_599</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Türk ressamların eserlerinde görülen geleneksel halı ve kilim tasvirleri (1882 sonrası dönem)</dc:title>
                     <dc:title>Traditional carpet and rug designs in the works of Turkish artists (the period after 1882)</dc:title>
                     <dc:creator>Tatlıcı, Müzeyyen</dc:creator>
@@ -1623,15 +1623,15 @@ a role in this war were examined.</dc:description>
                     <dc:date>2020-11-02T08:36:41Z</dc:date>
                     <dc:date>2020-11-02T08:36:41Z</dc:date>
                     <dc:date>2019</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Tatlıcı, M. (2019). Türk ressamların eserlerinde görülen geleneksel halı ve kilim tasvirleri (1882 sonrası dönem). (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü Resim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4656</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1644,7 +1644,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_157</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Hüsn-i Hat Levhalarında Edebî Hikemî Muhtevâ (Türkçe Levhalar)</dc:title>
                     <dc:creator>Arlı, Halime</dc:creator>
                     <dc:contributor>Ak, Murat</dc:contributor>
@@ -1669,15 +1669,15 @@ a role in this war were examined.</dc:description>
                     <dc:date>2022-02-15T11:11:00Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-12-17</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Arlı, H. (2021). Hüsn-i hat levhalarında edebî hikemî muhtevâ (Türkçe levhalar). (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, İslam Tarihi ve Sanatları Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8144</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1693,7 +1693,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Limb-Girdle Musküler Distrofi’li Gebede Anestezi Yönetimi</dc:title>
                     <dc:title>Anesthetic Management of A Pregnant Woman With Limb-Girdle Muscular Dystrophy</dc:title>
                     <dc:creator>Yılmaz, Resul</dc:creator>
@@ -1719,7 +1719,7 @@ a role in this war were examined.</dc:description>
                     <dc:date>2020-01-18T21:11:56Z</dc:date>
                     <dc:date>2020-01-18T21:11:56Z</dc:date>
                     <dc:date>2019</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Reisli, R., Tuncer Uzun, S., Topal, A., Tosun, O. M., Yılmaz, R. (2019). Limb-girdle musküler distrofi’li gebede anestezi yönetimi. Anestezi Dergisi, 27, 1, 70-73.</dc:identifier>
                     <dc:identifier>1300-0578</dc:identifier>
                     <dc:identifier>https://dx.doi.org/10.5222/jarss.2019.43531</dc:identifier>
@@ -1729,13 +1729,13 @@ a role in this war were examined.</dc:description>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>70</dc:identifier>
                     <dc:identifier>73</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>10.5222/jarss.2019.43531</dc:relation>
                     <dc:relation>Anestezi Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1751,7 +1751,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Multi Travmalı Bir Olguda İnfraklaviküler Blok Deneyimimiz</dc:title>
                     <dc:title>Infraclavicular Block Experience in a case of Multiple Trauma Patient</dc:title>
                     <dc:creator>Sargın, Mehmet</dc:creator>
@@ -1774,7 +1774,7 @@ a role in this war were examined.</dc:description>
                     <dc:date>2020-01-18T21:13:35Z</dc:date>
                     <dc:date>2020-01-18T21:13:35Z</dc:date>
                     <dc:date>2017</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Sarkılar, G., Sargın, M., Otelcioğlu, Ş., Sarıtaş, T. B. (2017). Multi Travmalı Bir Olguda İnfraklaviküler Blok Deneyimimiz. Bakırköy Tıp Dergisi, 13, 2, 110-112.</dc:identifier>
                     <dc:identifier>1305-9319</dc:identifier>
                     <dc:identifier>1305-9327</dc:identifier>
@@ -1784,12 +1784,12 @@ a role in this war were examined.</dc:description>
                     <dc:identifier>2</dc:identifier>
                     <dc:identifier>110</dc:identifier>
                     <dc:identifier>112</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Bakırköy Tıp Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1802,7 +1802,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_7571</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Otonom araç üzerinde artırılmış gerçeklik uygulaması</dc:title>
                     <dc:title>Augmented reality application on autonomous vehicle</dc:title>
                     <dc:creator>Bilban, Mehmet</dc:creator>
@@ -1824,15 +1824,15 @@ a role in this war were examined.</dc:description>
                     <dc:date>2021-06-23T08:36:53Z</dc:date>
                     <dc:date>2021-06-23T08:36:53Z</dc:date>
                     <dc:date>2020</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Bilban, M. (2020). Otonom araç üzerinde artırılmış gerçeklik uygulaması. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü, Bilgisayar Mühendisliği Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7621</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1845,7 +1845,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_157</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İslâm filozoflarında sanat ve estetik</dc:title>
                     <dc:title>Art and aesthetics in Islamic philosophers</dc:title>
                     <dc:creator>Gezgiç, Mehmet</dc:creator>
@@ -1888,15 +1888,15 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2023-01-18T08:43:05Z</dc:date>
                     <dc:date>2022</dc:date>
                     <dc:date>2022</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Gezgiç, M. (2022). İslâm filozoflarında sanat ve estetik. (Yayımlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, İslam Tarihi ve Sanatları Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/9048</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1909,7 +1909,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>XII.-XIII. yüzyıllarda Maturidiliğin Irak, Suriye ve Anadolu'da yayılışı</dc:title>
                     <dc:title>pread of Maturidism in Iraq, Sryia and Anatolia in the period of XII. and XIII. ages</dc:title>
                     <dc:creator>Çevik, İsmail</dc:creator>
@@ -1935,15 +1935,15 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2020-10-22T14:27:39Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-06-27</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Çevik, İ. (2019). XII.-XIII. yüzyıllarda Maturidiliğin Irak, Suriye ve Anadolu'da yayılışı. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Temel İslam Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4250</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1957,7 +1957,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_5773</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Anestezi altında kolonoskopi yapılacak hastalarda menstruel siklusun etkileri</dc:title>
                     <dc:title>Effects of the menstrual cycle in patients who undervent colonoscopy under anesthesia</dc:title>
                     <dc:creator>Üstün, Damlanur</dc:creator>
@@ -1976,15 +1976,15 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2020-12-24T06:17:58Z</dc:date>
                     <dc:date>2020-12-24T06:17:58Z</dc:date>
                     <dc:date>2017</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Üstün, D. (2017). Anestezi altında kolonoskopi yapılacak hastalarda menstruel siklusun etkileri. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Cerrahi Tıp Bilimleri Bölümü Anesteziyoloji ve Reanimasyon Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6635</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -1997,7 +1997,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Animasyon kullanımının öğretmen adaylarının genel kimya dersindeki erişilerine, tutumlarına ve kalıcılık düzeylerine etkisi</dc:title>
                     <dc:title>The effect of using animation on the candidate teachers' academic achievements, attitudes and retention levels</dc:title>
                     <dc:creator>Bayram, Kadriye</dc:creator>
@@ -2021,15 +2021,15 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2021-06-07T15:48:22Z</dc:date>
                     <dc:date>2012</dc:date>
                     <dc:date>2012</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Bayram, K. (2012). Animasyon kullanımının öğretmen adaylarının genel kimya dersindeki erişilerine, tutumlarına ve kalıcılık düzeylerine etkisi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Temel Eğitim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7441</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2042,7 +2042,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Lise 9. sınıf öğrencilerinde difüzyon ve ozmosla ilgili kavram yanılgıları</dc:title>
                     <dc:title>Misconceptions about diffusion and osmosis concepts held by secondary education 9th level students</dc:title>
                     <dc:creator>Koyuncuer, Bayram</dc:creator>
@@ -2063,15 +2063,15 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2020-06-23T16:59:10Z</dc:date>
                     <dc:date>2014</dc:date>
                     <dc:date>2014-10-30</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Koyuncuer, Bayram. (2014). Lise 9. sınıf öğrencilerinde difüzyon ve ozmosla ilgili kavram yanılgıları. (Yayımlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Matematik ve Fen Bilimler Eğitim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/3401</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2087,7 +2087,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Arterya Karotis İnternanın Seyir Varyasyonları</dc:title>
                     <dc:title>Variations in the course of internal carotid artery</dc:title>
                     <dc:creator>Acar, Musa</dc:creator>
@@ -2111,7 +2111,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2020-01-18T21:03:25Z</dc:date>
                     <dc:date>2020-01-18T21:03:25Z</dc:date>
                     <dc:date>2014</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Acar, M., Zararsız, İ., Ulusoy, M., Sakarya, M E., Acar, S., Şİmşek, T. (2014). Arterya Karotis İnterna'nın Seyir Varyasyonları. Kocatepe Tıp Dergisi, 3, 15, 256-260.</dc:identifier>
                     <dc:identifier>1302-4612</dc:identifier>
                     <dc:identifier>2149-7869</dc:identifier>
@@ -2121,12 +2121,12 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:identifier>3</dc:identifier>
                     <dc:identifier>256</dc:identifier>
                     <dc:identifier>260</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Kocatepe Tıp Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2139,7 +2139,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_567</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Lojistik Köylerin Analizi ve Planlamasında Coğrafi Bilgi Sistemi Kullanımı: Kayacık Örneği</dc:title>
                     <dc:title>Application of Geographic İnformation System for Logistic Villages Planning and Analysis: Kayacık Sample</dc:title>
                     <dc:creator>Alragheb, Hesham</dc:creator>
@@ -2161,15 +2161,15 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2022-01-14T05:18:04Z</dc:date>
                     <dc:date>2022-01-14T05:18:04Z</dc:date>
                     <dc:date>2021</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Alragheb, H. (2021). Lojistik köylerin analizi ve planlamasında coğrafi bilgi sistemi kullanımı: Kayacık örneği. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü İnşaat Mühendisliği Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8007</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2182,7 +2182,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_86</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Özel eğitim öğrencilerinin eğitiminde görsel sanatlar dersine yönelik öğretmen görüşleri</dc:title>
                     <dc:title>Teachers' views about visual arts lesson in educating students of private education</dc:title>
                     <dc:creator>Şen, Vesile</dc:creator>
@@ -2206,15 +2206,15 @@ Allah, the main source of beauty in the universe.</dc:description>
                     <dc:date>2020-12-28T08:21:34Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-06-18</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Şen, V. (2019). Özel eğitim öğrencilerinin eğitiminde görsel sanatlar dersine yönelik öğretmen görüşleri. . (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Güzel Sanatlar Eğitimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6783</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2227,7 +2227,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_88</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>6 Yaş Çocuklarının Geometrik Şekilleri Tanıma Becerileri, Korunum Becerileri Ve Erken Matematik Becerilerinin İncelenmesi</dc:title>
                     <dc:title>Investigation Of 6 Year Old Children's Skills To Recognize Geometric Shapes, Conservation Skills And Early Mathematical Skills</dc:title>
                     <dc:creator>Özturhan, Merve</dc:creator>
@@ -2255,15 +2255,15 @@ According to the findings of the study, the mean scores of 6-year-old children i
                     <dc:date>2021-08-13T14:51:08Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-04-27</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Özturhan, M. (2021). 6 yaş çocuklarının geometrik şekilleri tanıma becerileri, korunum becerileri ve erken matematik becerilerinin incelenmesi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Temel Eğitim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7684</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2277,7 +2277,7 @@ According to the findings of the study, the mean scores of 6-year-old children i
                 <setSpec>col_20.500.12452_8903</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Muhammed Hasan Alvân’ın “Mevtun Sağîrun” (Küçük Bir Ölüm) adlı romanının teknik ve tematik incelemesi</dc:title>
                     <dc:title>Technical and thematic analysis of Muhammad Hasan Alwan’s novel: Mawton Sagheer (Small Death)</dc:title>
                     <dc:creator>Eminoğlu, Ali</dc:creator>
@@ -2315,7 +2315,7 @@ handled in the novel place and time elements with literary images and alchemists
                     <dc:date>2023-01-19T09:02:30Z</dc:date>
                     <dc:date>2023-01-19T09:02:30Z</dc:date>
                     <dc:date>2018</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Eminoğlu, A. (2018). Muhammed Hasan Alvân’ın “Mevtun Sağîrun” (Küçük Bir Ölüm) adlı romanının teknik ve tematik incelemesi. Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi, 46, 46, 141-162.</dc:identifier>
                     <dc:identifier>2148-9890</dc:identifier>
                     <dc:identifier>2149-0015</dc:identifier>
@@ -2324,13 +2324,13 @@ handled in the novel place and time elements with literary images and alchemists
                     <dc:identifier>46</dc:identifier>
                     <dc:identifier>141</dc:identifier>
                     <dc:identifier>162</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi</dc:relation>
                     <dc:relation>Makale - Uluslararası Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2343,7 +2343,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Üst düzey matematiksel düşünme süreçlerinin sorgulayıcı problem çözme ve öğrenme modeline göre tasarlanmış çalışma yaprakları yardımıyla incelenmesi</dc:title>
                     <dc:title>Investigation of advanced mathematical thinking processes with worksheets designed by inquiry problem solving and learning model</dc:title>
                     <dc:creator>Coşkun, Sema</dc:creator>
@@ -2363,15 +2363,15 @@ handled in the novel place and time elements with literary images and alchemists
                     <dc:date>2021-06-04T07:40:32Z</dc:date>
                     <dc:date>2012</dc:date>
                     <dc:date>2012-05-30</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Coşkun, S. (2012). Üst düzey matematiksel düşünme süreçlerinin sorgulayıcı problem çözme ve öğrenme modeline göre tasarlanmış çalışma yaprakları yardımıyla incelenmesi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Matematik ve Fen Bilimleri Eğitimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7409</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2387,7 +2387,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Laktasyonda Olmayan Kadında E.Coliye Bağlı Bilateral Meme Apsesi: Nadir Bir Olgu</dc:title>
                     <dc:title>Bilateral Breast Abscess Caused by E.coli in a Non-lactating Woman: A Rare Case</dc:title>
                     <dc:creator>Şimşek, Gürcan</dc:creator>
@@ -2406,7 +2406,7 @@ handled in the novel place and time elements with literary images and alchemists
                     <dc:date>2020-01-18T21:12:00Z</dc:date>
                     <dc:date>2020-01-18T21:12:00Z</dc:date>
                     <dc:date>2014</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Tavlı, Ş., Şimşek, G., Gündeş, E., Tekin, Ş. (2014). Laktasyonda olmayan kadında E.Coli'ye bağlı bilateral meme apsesi: Nadir bir olgu. Meme Sağlığı Dergisi, 10, 3, 174-176.</dc:identifier>
                     <dc:identifier>1306-0945</dc:identifier>
                     <dc:identifier>https://app.trdizin.gov.tr/makale/TVRnMk56Y3dNQT09/laktasyonda-olmayan-kadinda-e-coli-ye-bagli-bilateral-meme-apsesi-nadir-bir-olgu</dc:identifier>
@@ -2415,13 +2415,13 @@ handled in the novel place and time elements with literary images and alchemists
                     <dc:identifier>3</dc:identifier>
                     <dc:identifier>174</dc:identifier>
                     <dc:identifier>176</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Meme Sağlığı Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2435,7 +2435,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_3368</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Tümör belirteçleri yüksek olan veya kontrastlı abdominal BT'de şüpheli lezyonu bulunan over kanserli hastalarda nüks ve/veya intraabdominal metastazların belirlenmesinde FDG-PET/BT'nin rolü</dc:title>
                     <dc:title>The role of FDG-PET/CT in detecting recurrences and/or intraabdominal metastases in ovarian cancer patients with increased tumor markers or suspicious lesions in contrast enhanced-CT</dc:title>
                     <dc:creator>Kaya, Buğra</dc:creator>
@@ -2455,15 +2455,15 @@ handled in the novel place and time elements with literary images and alchemists
                     <dc:date>2020-12-16T06:08:54Z</dc:date>
                     <dc:date>2010</dc:date>
                     <dc:date>2010</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Kaya, B. (2010). Tümör belirteçleri yüksek olan veya kontrastlı abdominal BT'de şüpheli lezyonu bulunan over kanserli hastalarda nüks ve/veya intraabdominal metastazların belirlenmesinde FDG-PET/BT'nin rolü. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Dahili Tıp Bilimleri Bölümü Radyoloji Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6462</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2476,7 +2476,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_547</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İlkokul sosyal bilgiler öğretiminde Başarılı Zeka Kuramına dayalı etkinliklerin düşünme becerilerine etkisi</dc:title>
                     <dc:title>The effects of the activities, which are based on Successful Intelligence Theory, on thinking skills in primary school social studies education</dc:title>
                     <dc:creator>Yıldız, Nihal</dc:creator>
@@ -2493,15 +2493,15 @@ handled in the novel place and time elements with literary images and alchemists
                     <dc:date>2019-08-23T07:37:42Z</dc:date>
                     <dc:date>2019-08-23T07:37:42Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>doctoralThesis</dc:type>
+                    <type>doctoralThesis</type>
                     <dc:identifier>Diğer</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/783</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2514,7 +2514,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_561</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Türkiye'deki İllerin İktisadi Faaliyet Kollarına Göre Etkinliklerinin Veri Zarflama Analizi ile Değerlendirilmesi</dc:title>
                     <dc:title>The Evaluatıon of The Efficiency of The Provinces in Turkey by Kind of Economic Activity Via Data Envelopment Analysis</dc:title>
                     <dc:creator>Gürel, İbrahim Umut</dc:creator>
@@ -2568,15 +2568,15 @@ services activity branch were found to be effective.</dc:description>
                     <dc:date>2022-04-19T06:11:35Z</dc:date>
                     <dc:date>2022</dc:date>
                     <dc:date>2022-01</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Gürel, İ. U. (2022). Türkiye'deki illerin iktisadi faaliyet kollarına göre etkinliklerinin veri zarflama analizi ile değerlendirilmesi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü, Endüstri Mühendisliği Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8256</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2589,7 +2589,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_560</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Sıvılaştırılmış doğal gazın (LNG) soğuk enerjisini kullanan yeni bir birleşik güç sisteminin enerji, ekserji ve eksergo-ekonomik analizi</dc:title>
                     <dc:title>Energy, exergy and exergo-economic analysis of a novel combined power system using the cold energy of liquified natural gas (LNG)</dc:title>
                     <dc:creator>Uçar, İbrahim</dc:creator>
@@ -2616,15 +2616,15 @@ services activity branch were found to be effective.</dc:description>
                     <dc:date>2021-06-17T14:15:47Z</dc:date>
                     <dc:date>2020</dc:date>
                     <dc:date>2020-02-03</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Uçar, İ. (2020). Sıvılaştırılmış doğal gazın (LNG) soğuk enerjisini kullanan yeni bir birleşik güç sisteminin enerji, ekserji ve eksergo-ekonomik analizi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü Makine Mühendisliği Ana Bilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7601</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2638,7 +2638,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_3365</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>1996-2003 yılları arasında takip ettiğimiz hodgkin ve hodgkin dışı lenfoma hastalarımızın değerlendirilmesi</dc:title>
                     <dc:creator>Hidayetoğlu, Bahauddin Taha</dc:creator>
                     <dc:contributor>Ecirli, Şamil</dc:contributor>
@@ -2652,14 +2652,14 @@ services activity branch were found to be effective.</dc:description>
                     <dc:date>2020-11-05T19:07:02Z</dc:date>
                     <dc:date>2005</dc:date>
                     <dc:date>2005</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Hidayetoğlu, B. T. (2005). 1996-2003 yılları arasında takip ettiğimiz hodgkin ve hodgkin dışı lenfoma hastalarımızın değerlendirilmesi. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Dahili Tıp Bilimleri İç Hastalıklar Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4969</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2673,7 +2673,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_3358</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Baş boyun bölgesinin non melanotik malign deri tümörlerinin rekürrens ve metastaz kriterlerinin araştırılması</dc:title>
                     <dc:title>A research on the recurrence and metastasis criteria of nonmelanotic malign skin tumors in the head and neck region</dc:title>
                     <dc:creator>Sodalı, Tuğba</dc:creator>
@@ -2691,15 +2691,15 @@ services activity branch were found to be effective.</dc:description>
                     <dc:date>2020-12-08T11:11:19Z</dc:date>
                     <dc:date>2016</dc:date>
                     <dc:date>2016</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Sodalı, T. (2016). Baş boyun bölgesinin non melanotik malign deri tümörlerinin rekürrens ve metastaz kriterlerinin araştırılması. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Cerrahi Tıp Bilimleri Bölümü  Plastik Cerrahi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/5867</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2712,7 +2712,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_152</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Doksanlı yıllarda müzik ve siyaset: Seçim şarkıları üzerine bir araştırma</dc:title>
                     <dc:title>Music and politics in the nineties: A research on election songs</dc:title>
                     <dc:creator>Girgin, Özlem</dc:creator>
@@ -2737,15 +2737,15 @@ services activity branch were found to be effective.</dc:description>
                     <dc:date>2021-04-22T14:55:34Z</dc:date>
                     <dc:date>2020</dc:date>
                     <dc:date>2020-12-23</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Girgin, Ö. (2020). Doksanlı yıllarda müzik ve siyaset: Seçim şarkıları üzerine bir araştırma. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Sosyoloji Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7335</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2761,7 +2761,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Pulmoner ve ekstrapulmoner tüberküloz hastalarında CCL1 rs159294 T/A gen polimorfizminin araştırılması</dc:title>
                     <dc:title>Investigation of CCL1 rs159294 T/A gene polymorphism in pulmonary and extrapulmonary tuberculosis patients</dc:title>
                     <dc:creator>Özdemir, Fethi Ahmet</dc:creator>
@@ -2796,7 +2796,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:date>2020-01-18T21:11:15Z</dc:date>
                     <dc:date>2020-01-18T21:11:15Z</dc:date>
                     <dc:date>2013</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Şenli Kara, E., Özdemir, F. A., Erol, D., Yüce, H., Konar, V., Bulut, F., Deveci, F. (2013). Pulmoner ve ekstrapulmoner tüberküloz hastalarında CCL1 rs159294 T/A gen polimorfizminin araştırılması. Tüberküloz ve Toraks, 61, 3, 200-208.</dc:identifier>
                     <dc:identifier>0494-1373</dc:identifier>
                     <dc:identifier>https://app.trdizin.gov.tr/makale/TVRVME9ESTNOdz09/pulmoner-ve-ekstrapulmoner-tuberkuloz-hastalarinda-ccl1-rs159294-t-a-gen-polimorfizminin-arastirilmasi</dc:identifier>
@@ -2805,12 +2805,12 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:identifier>3</dc:identifier>
                     <dc:identifier>200</dc:identifier>
                     <dc:identifier>208</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tüberküloz ve Toraks</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2823,7 +2823,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Drama öğretim tekniğinin yabancı dil kelime öğretimine ve öğrencilerin kelime öğrenmeye yönelik tutumlarına etkisi</dc:title>
                     <dc:title>Influence of the drama teaching method on foreign language vocabulary teaching and on students' attitudes towards vocabulary learning</dc:title>
                     <dc:creator>Başören, Muhammet Tarık</dc:creator>
@@ -2844,15 +2844,15 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:date>2019-08-07T12:54:57Z</dc:date>
                     <dc:date>2019-08-07T12:54:57Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Diğer</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/669</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2863,7 +2863,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>1975-1980 arasında Türkiye’deki siyasi olaylar ve siyasi görüşlerin dildeki yansımaları</dc:title>
                     <dc:title>The reflections of Turkey's political events and political views between 1975-1980</dc:title>
                     <dc:creator>Çal, Ahmet</dc:creator>
@@ -2891,7 +2891,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:date>2020-01-18T21:07:00Z</dc:date>
                     <dc:date>2020-01-18T21:07:00Z</dc:date>
                     <dc:date>2017</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Çal, A. (2017). 1975-1980 arasında Türkiye’deki siyasi olaylar ve siyasi görüşlerin dildeki yansımaları. Turkish Studies (Elektronik), 12, 22,  233-254.</dc:identifier>
                     <dc:identifier>1308-2140</dc:identifier>
                     <dc:identifier>https://app.trdizin.gov.tr/makale/TWpneE5EZzNOdz09/1975-1980-arasinda-turkiye-deki-siyasi-olaylar-ve-siyasi-goruslerin-dildeki-yansimalari</dc:identifier>
@@ -2900,12 +2900,12 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:identifier>22</dc:identifier>
                     <dc:identifier>233</dc:identifier>
                     <dc:identifier>254</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Turkish Studies (Elektronik)</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2918,7 +2918,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_597</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Mehmed Şefik Bey'in hayatı ve eserleri</dc:title>
                     <dc:title>Mehmed Şefik Bey's life and works</dc:title>
                     <dc:creator>Korkmaz, Hatice Kübra</dc:creator>
@@ -2930,15 +2930,15 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:date>2020-11-10T07:08:43Z</dc:date>
                     <dc:date>2020-11-10T07:08:43Z</dc:date>
                     <dc:date>2019</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Korkmaz H K. (2019). Mehmed Şefik Bey'in hayatı ve eserleri. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü Geleneksel Türk Sanatları Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/5215</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2952,7 +2952,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_3355</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Koroner arter hastalığında fibrinojen ve Faktör VII'nin rolü</dc:title>
                     <dc:title>The Role of fibrinogen and factor VII in coronary artery disease</dc:title>
                     <dc:creator>Altınbaş, Ahmet</dc:creator>
@@ -2972,15 +2972,15 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:date>2020-11-19T11:29:56Z</dc:date>
                     <dc:date>1996</dc:date>
                     <dc:date>1996</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Altınbaş, A. (1996). Koroner arter hastalığında fibrinojen ve Faktör VII'nin rolü. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Cerrahi Tıp Bilimleri Bölümü Göğüs Cerrahisi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/5558</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -2993,7 +2993,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Öğretmenlerin okullarına duygusal bağlılıklarını etkileyen faktörlere ilişkin görüşlerinin incelenmesi</dc:title>
                     <dc:title>An examination of teachers' views of the factors affecting their affective commitment to their schools</dc:title>
                     <dc:creator>Kalaycı, Halit</dc:creator>
@@ -3017,15 +3017,15 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                     <dc:date>2020-12-28T15:18:14Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-06-18</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Kalaycı, H. (2019). Öğretmenlerin okullarına duygusal bağlılıklarını etkileyen faktörlere ilişkin görüşlerinin incelenmesi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Eğitim Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6826</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3038,7 +3038,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Emeviler döneminde meydana gelen dini-siyasi hareketlerde kûfe'nin önemi</dc:title>
                     <dc:title>The importance of the kufe in religious-political movements through the Umayyad period</dc:title>
                     <dc:creator>Keleş, Hakan</dc:creator>
@@ -3081,15 +3081,15 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                     <dc:date>2020-10-23T10:56:32Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-06-19</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Keleş, H. (2019). Emeviler döneminde meydana gelen dini-siyasi hareketlerde kûfe'nin önemi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Temel İslam Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4304</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3102,7 +3102,7 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İlkokul 4. sınıf görsel sanatlar dersinde sanal müze uygulamasına ilişkin öğretmen, öğrenci ve veli görüşleri</dc:title>
                     <dc:title>The views of teachers, students and parents about virtual museum application in the 4th grade primary school visual arts course</dc:title>
                     <dc:creator>Canlı, Kezban</dc:creator>
@@ -3119,14 +3119,14 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                     <dc:date>2019-10-21T10:59:19Z</dc:date>
                     <dc:date>2019-10-21T10:59:19Z</dc:date>
                     <dc:date>2016</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/1115</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3140,7 +3140,7 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                 <setSpec>col_20.500.12452_3368</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Prostat kanseri tanısında prostat spesifik antijen ve transrektal ultrasonografi bulgularının karşılaştırılması ve altı kadran prostat biyopsisinin yeri</dc:title>
                     <dc:creator>Börekçi, Bekir</dc:creator>
                     <dc:contributor>Karaköse, Serdar</dc:contributor>
@@ -3157,14 +3157,14 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                     <dc:date>2020-12-15T12:09:30Z</dc:date>
                     <dc:date>1997</dc:date>
                     <dc:date>1997</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Börekçi, B. (1997). Prostat kanseri tanısında prostat spesifik antijen ve transrektal ultrasonografi bulgularının karşılaştırılması ve altı kadran prostat biyopsisinin yeri. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Dahili Tıp Bilimleri Bölümü Radyoloji Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6436</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3177,7 +3177,7 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Lise öğrencilerinin kelebeğin yaşam döngüsü bağlamında sistem düşünme becerileri</dc:title>
                     <dc:title>High school student's systems thinking skills in the context of the life cycle of a butterfly</dc:title>
                     <dc:creator>Çakmak, Seda</dc:creator>
@@ -3216,15 +3216,15 @@ biology.</dc:description>
                     <dc:date>2021-01-14T10:23:42Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-07-01</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Çakmak, S. (2019). Lise öğrencilerinin kelebeğin yaşam döngüsü bağlamında sistem düşünme becerileri. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan, Üniversitesi, Eğitim Bilimleri Enstitüsü Matematik ve Fen Bilimleri Eğitimi Anabilim, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6899</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3237,7 +3237,7 @@ biology.</dc:description>
                 <setSpec>col_20.500.12452_166</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Dinî içerikli çocuk kitaplarının öğretmen görüşleri çerçevesinde değerlendirilmesi</dc:title>
                     <dc:title>Evaluation of religious-content children books according to teachers' views</dc:title>
                     <dc:creator>Turanalp, Muhammed Fatih</dc:creator>
@@ -3261,15 +3261,15 @@ biology.</dc:description>
                     <dc:date>2020-06-23T16:58:07Z</dc:date>
                     <dc:date>2017</dc:date>
                     <dc:date>2017-03-17</dc:date>
-                    <dc:type>doctoralThesis</dc:type>
+                    <type>doctoralThesis</type>
                     <dc:identifier>Turanalp, M.Fatih. (2017). Dinî içerikli çocuk kitaplarının öğretmen görüşleri çerçevesinde değerlendirilmesi . (Yayımlanmamış doktora tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimleri Enstitüsü Felsefe ve Din Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/3400</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3287,7 +3287,7 @@ biology.</dc:description>
                 <setSpec>col_20.500.12452_8722</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>el-Cevherî’nin es-Sıhâh: Tâcu’l-luğa ve Sıhâhu’l-Arabiyye’siyle İbn Fâris’in Mu’cemu Mekâyîsi’l-Lüga’sında ‘erâde’ ve ‘şâe’ fiillerinin karşılaştırılmalı anlamları</dc:title>
                     <dc:title>Comparative meanings of the verbs (a-ra-da and sha-a) in the Dictionaries of al-Jawhari and Ibn Fares</dc:title>
                     <dc:title>المعاني المقارنة للأفعال أراد وشاء في قواميس الجوهري وابن فارس</dc:title>
@@ -3332,7 +3332,7 @@ accompanied by various examples.</dc:description>
                     <dc:date>2022-12-15T13:23:32Z</dc:date>
                     <dc:date>2022-12-15T13:23:32Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Yasdıman Demirdöven, N. (2015). el-Cevherî’nin es-Sıhâh: Tâcu’l-luğa ve Sıhâhu’l-Arabiyye’siyle İbn Fâris’in Mu’cemu Mekâyîsi’l-Lüga’sında ‘erâde’ ve ‘şâe’ fiillerinin karşılaştırılmalı anlamları. Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi, 39, 39, 75-104.</dc:identifier>
                     <dc:identifier>2148-9890</dc:identifier>
                     <dc:identifier>2149-0015</dc:identifier>
@@ -3341,13 +3341,13 @@ accompanied by various examples.</dc:description>
                     <dc:identifier>39</dc:identifier>
                     <dc:identifier>75</dc:identifier>
                     <dc:identifier>104</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Necmettin Erbakan Üniversitesi İlahiyat Fakültesi Dergisi</dc:relation>
                     <dc:relation>Makale - Uluslararası Hakemli Dergi - Başka Kurum Yazarı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3360,7 +3360,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_565</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Grafen esaslı iletken desenlerin hazırlanması ve elektrokimyasal karakterizasyonu</dc:title>
                     <dc:title>Preparation of graphene based conductive patterns and their electrochemical characterization</dc:title>
                     <dc:creator>Soğancı, Kübra</dc:creator>
@@ -3388,15 +3388,15 @@ accompanied by various examples.</dc:description>
                     <dc:date>2020-12-18T12:10:36Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-12-16</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Soğancı, K. (2019). Grafen esaslı iletken desenlerin hazırlanması ve elektrokimyasal karakterizasyonu. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü Nanobilim ve Nanomühendislik Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6508</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3409,7 +3409,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_559</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Güneş enerjisi santrallerinde derin öğrenme kullanılarak elektrik üretimi tahmininin yapılması</dc:title>
                     <dc:title>Estimation electricity generation using deep learning on solar power plants</dc:title>
                     <dc:creator>Kıymaz, Yunus Emre</dc:creator>
@@ -3434,15 +3434,15 @@ accompanied by various examples.</dc:description>
                     <dc:date>2021-03-01T07:25:58Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-12-17</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Kıymaz, Y. E. (2021). Güneş enerjisi santrallerinde derin öğrenme kullanılarak elektrik üretimi tahmininin yapılması. (Yayınlanmamış Yüksek Lisans Tezi).  Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü Enerji Sistemleri Mühendisliğiğ Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7151</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi  Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3455,7 +3455,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Ortaokul 5. ve 8. sınıf öğrencilerinin çevrenin bugünü ve 50 yıl sonrasına yönelik algıları: Fenomenografik bir çalışma</dc:title>
                     <dc:title>Secondary school, 5th and 8th grade student's perception on today and on the next fifty years of environment: A phenomenographic study</dc:title>
                     <dc:creator>Müezzinoğlu, Fazıl Şükrü</dc:creator>
@@ -3474,15 +3474,15 @@ accompanied by various examples.</dc:description>
                     <dc:date>2019-11-20T07:36:32Z</dc:date>
                     <dc:date>2019-11-20T07:36:32Z</dc:date>
                     <dc:date>2014</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Diğer</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/1197</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3495,7 +3495,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Sınıf öğretmenlerinin sosyal bilgiler programındaki değerlerle ilgili görüşleri ve bunların kazandırılmasına ilişkin uygulamaları</dc:title>
                     <dc:title>Primary school teachers' opinions about the values in social sciences programme and their practices for having them acquired</dc:title>
                     <dc:creator>Akdemir, Sultan</dc:creator>
@@ -3513,15 +3513,15 @@ accompanied by various examples.</dc:description>
                     <dc:date>2021-06-04T12:21:01Z</dc:date>
                     <dc:date>2012</dc:date>
                     <dc:date>2012-06-20</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Akdemir, S. (2012). Sınıf öğretmenlerinin sosyal bilgiler programındaki değerlerle ilgili görüşleri ve bunların kazandırılmasına ilişkin uygulamaları. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Temel Eğitim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7430</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3534,7 +3534,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_556</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Kırınım Pencereli Kurutma Şartlarının Yumurta Tozlarının Fiziksel ve Kimyasal Özellikleri Üzerine Etkilerinin Araştırılması</dc:title>
                     <dc:title>Investigation of The Effect of Refractance Window Drying Conditions on The Physical and Chemical Properties of Egg Powders</dc:title>
                     <dc:creator>Günışık, Ayşe</dc:creator>
@@ -3580,15 +3580,15 @@ fast, high quality and effective alternative drying method in egg powder product
                     <dc:date>2022-04-19T06:27:59Z</dc:date>
                     <dc:date>2022</dc:date>
                     <dc:date>2022-01</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Günışık, A. (2022). Kırınım pencereli kurutma şartlarının yumurta tozlarının fiziksel ve kimyasal özellikleri üzerine etkilerinin araştırılması. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü, Gıda Mühendisliği Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8274</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/embargoedAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3602,7 +3602,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_3352</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Esansiyel Blefarospazmlı hastalarda Botulinum Toksin enjeksiyon tedavisinin etkinliği</dc:title>
                     <dc:title>The effectiveness of Botulinum toxin injection treatment in patients with essential Blepharospazm</dc:title>
                     <dc:creator>Ali, Nermin Palancı</dc:creator>
@@ -3616,16 +3616,16 @@ fast, high quality and effective alternative drying method in egg powder product
                     <dc:date>2020-10-21T07:42:57Z</dc:date>
                     <dc:date>2009</dc:date>
                     <dc:date>2009</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Ali, N.P.. (2009). Esansiyel Blefarospazmlı hastalarda Botulinum Toksin enjeksiyon tedavisinin etkinliği . (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Cerrahi Tıp Bilimleri  Göz Hastalıkları Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4076</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3638,7 +3638,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_564</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Alışveriş merkezlerinin sürdürülebilir ulaşım türleriyle erişilebilirliğinin irdelenmesi: Konya örneği</dc:title>
                     <dc:title>Exami̇ni̇ng accessibility by types of sustainable transportation for shoppi̇ng centers: The case of Konya</dc:title>
                     <dc:creator>Alper Öztoklu, Büşra</dc:creator>
@@ -3655,15 +3655,15 @@ fast, high quality and effective alternative drying method in egg powder product
                     <dc:date>2020-09-25T13:25:29Z</dc:date>
                     <dc:date>2020-09-25T13:25:29Z</dc:date>
                     <dc:date>23/10/2018</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Alper Öztoklu, S. (2018). Alışveriş merkezlerinin sürdürülebilir ulaşım türleriyle erişilebilirliğinin irdelenmesi: Konya örneği. (Yayımlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü Şehir ve Bölge Planlama Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/3842</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3676,7 +3676,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_560</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Bilyeleme yöntemiyle şekillendirilmiş çelik boruların aşınma davranışları ve mekanik özelliklerinin deneysel incelenmesi</dc:title>
                     <dc:title>Experimental investigation of wear behavior and mechanical properties of ballised steel pipes</dc:title>
                     <dc:creator>Özyaman, Musa</dc:creator>
@@ -3697,15 +3697,15 @@ fast, high quality and effective alternative drying method in egg powder product
                     <dc:date>2020-09-18T17:15:38Z</dc:date>
                     <dc:date>2017</dc:date>
                     <dc:date>2017-12-01</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Özyaman, M. (2017) Bilyeleme yöntemiyle şekillendirilmiş çelik boruların aşınma davranışları ve mekanik özelliklerinin deneysel incelenmesi. (Yayınlanmamış yüksek lisans tezi) Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü Makine Mühendisliği Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/3833</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3718,7 +3718,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_509</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Normalizasyon Tekniklerinin Biyomedikal Verilerde Sınıflama Başarısına Etkisi</dc:title>
                     <dc:title>Effect of Normalization Techniques on Classification Success in Biomedical Data</dc:title>
                     <dc:creator>Yüce, Hakan</dc:creator>
@@ -3778,17 +3778,17 @@ improve the performance of artificial intelligence classification methods.</dc:d
                     <dc:date>2021-08-19T12:27:41Z</dc:date>
                     <dc:date>2021-08-19T12:27:41Z</dc:date>
                     <dc:date>2021</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Yüce, H. (2021). Normalizasyon tekniklerinin biyomedikal verilerde sınıflama başarısına etkisi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü Elektrik Elektronik Mühendisliği Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7703</dc:identifier>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>91</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3801,7 +3801,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Hayat boyu öğrenme kapsamında Okullar Hayat Olsun Projesi'nin ilkokullarda uygulanışının incelenmesi (Konya ili örneği)</dc:title>
                     <dc:title>Examination of the application in primary schools of the Project Let the Schools Be Life in the realm of life-long learning (Example: Konya)</dc:title>
                     <dc:creator>Erkal, Coşkun</dc:creator>
@@ -3812,14 +3812,14 @@ improve the performance of artificial intelligence classification methods.</dc:d
                     <dc:date>2019-10-21T07:21:28Z</dc:date>
                     <dc:date>2019-10-21T07:21:28Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/1109</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3832,7 +3832,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_130</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Adölesanlarda sağlık algısının besin etiketi okuma alışkanlıkları üzerine etkisi</dc:title>
                     <dc:title>The effect of health perception on nutritional label reading habits in adolescents</dc:title>
                     <dc:creator>Gültekin, Betül</dc:creator>
@@ -3853,15 +3853,15 @@ improve the performance of artificial intelligence classification methods.</dc:d
                     <dc:date>2020-10-19T07:12:55Z</dc:date>
                     <dc:date>2020-10-19T07:12:55Z</dc:date>
                     <dc:date>2019</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Gültekin, B. (2019). Adölesanlarda sağlık algısının besin etiketi okuma alışkanlıkları üzerine etkisi. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sağlık Bilimleri Enstitüsü Halk Sağlığı Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/3993</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sağlık Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3874,7 +3874,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_561</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Güneş Enerjili Su Pompalama Sistem Tasarımı: Somali Örneği</dc:title>
                     <dc:title>Solar Water Pumping System Design: The Case of Somalia</dc:title>
                     <dc:creator>Isak, Abdullahi Mohamed</dc:creator>
@@ -3898,15 +3898,15 @@ improve the performance of artificial intelligence classification methods.</dc:d
                     <dc:date>2022-01-14T05:14:14Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-08</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Isak, A. M. (2021). Güneş enerjili su pompalama sistem tasarımı: Somali örneği. Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Fen Bilimleri Enstitüsü Elektrik Elektronik Mühendisliği Anabilim Dalı, Konya</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8004</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -3919,7 +3919,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_600</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Beyşehir Zamana Yolculuk Dükkânında Bulunan Geleneksel Konut Mimarisine Bağlı Ahşap Kapı Kanatları</dc:title>
                     <dc:title>Wooden Door Wings Connected to Traditional House Architecture Found in Beysehir Time Travel Shop</dc:title>
                     <dc:creator>Zıvlak, Havva</dc:creator>
@@ -4010,15 +4010,15 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2022-01-27T07:16:39Z</dc:date>
                     <dc:date>2021</dc:date>
                     <dc:date>2021-09-27</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Zıvlak, H. (2021). Beyşehir zamana yolculuk dükkânında bulunan geleneksel konut mimarisine bağlı ahşap kapı kanatları. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Sanat Tarihi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8097</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4034,7 +4034,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Miyoplarda Multifokal Elektroretinografı</dc:title>
                     <dc:title>Multifocal Electroretinography in Myopia</dc:title>
                     <dc:creator>Tokgöz, Mine</dc:creator>
@@ -4056,7 +4056,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2020-01-18T21:04:02Z</dc:date>
                     <dc:date>2020-01-18T21:04:02Z</dc:date>
                     <dc:date>2016</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Özkağnıcı, A., Tokgöz, M., Gündüz, M. K., Karaibrahimoğlu, A. (2016). Miyoplarda multifokal elektroretinografı. Türkiye Klinikleri Oftalmoloji Dergisi, 25, 1, 1-13.</dc:identifier>
                     <dc:identifier>1300-0365</dc:identifier>
                     <dc:identifier>2146-9008</dc:identifier>
@@ -4066,12 +4066,12 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>13</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Türkiye Klinikleri Oftalmoloji Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4086,7 +4086,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>The Sufi Doctrine of Man : Sadr al-Din al-Qunawi's Metaphysical Anthropology, by Richard Todd (Leiden: Brill 2014), ISBN: 978-9004-27123-4,  EUR107.00 / $138.00 (hb)</dc:title>
                     <dc:creator>Argon, Kemal Enz</dc:creator>
                     <dc:contributor>Kemal Enz Argon: 0000-0003-0333-0438</dc:contributor>
@@ -4094,7 +4094,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2020-01-18T21:02:48Z</dc:date>
                     <dc:date>2020-01-18T21:02:48Z</dc:date>
                     <dc:date>2016</dc:date>
-                    <dc:type>review</dc:type>
+                    <type>review</type>
                     <dc:identifier>Argon, K. E. (2016). The sufi doctrine of man : Sadr al-Din al-Qunawi's metaphysical anthropology, by Richard Todd (Leiden: Brill 2014), ISBN: 978-9004-27123-4, EUR107.00 / $138.00 (hb). İlahiyat Studies: A Journal on Islamic and Religious Studies, 7, 1, 139-142.</dc:identifier>
                     <dc:identifier>1309-1786</dc:identifier>
                     <dc:identifier>1309-1719</dc:identifier>
@@ -4104,12 +4104,12 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>139</dc:identifier>
                     <dc:identifier>142</dc:identifier>
-                    <dc:language>eng</dc:language>
+                    <language>eng</language>
                     <dc:relation>İlahiyat Studies: A Journal on Islamic and Religious Studies</dc:relation>
                     <dc:relation>Diğer</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4125,7 +4125,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Uyku Yoksunluğunun Duygudurum Profili ve Dissosiyasyon Üzerine Etkisi ve Biyokimyasal Değişimlerle İlişkisi</dc:title>
                     <dc:title>The Effects of Sleep Deprivation on Dissociation and Profiles of Mood, and Its Association with Biochemical Changes</dc:title>
                     <dc:creator>Selvi, Yavuz</dc:creator>
@@ -4147,7 +4147,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2020-01-18T21:04:16Z</dc:date>
                     <dc:date>2020-01-18T21:04:16Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Aydın, A., Selvi, Y., Kılıç, S.,Güzel Özdemir, P. (2015). Uyku yoksunluğunun duygudurum profili ve dissosiyasyon üzerine etkisi ve biyokimyasal değişimlerle ilişkisi. Nöropsikiyatri Arşivi, 52, 1, 83-88.</dc:identifier>
                     <dc:identifier>1309-4866</dc:identifier>
                     <dc:identifier>1309-4866</dc:identifier>
@@ -4157,12 +4157,12 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>83</dc:identifier>
                     <dc:identifier>88</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Nöropsikiyatri Arşivi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4175,7 +4175,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Metodu ve konuları itibariyle Beyânu'l- Hak tefsiri</dc:title>
                     <dc:title>The tafsir of Beyânu'l-Hak from the point its method and subject.</dc:title>
                     <dc:creator>Akalp, Melahat</dc:creator>
@@ -4195,15 +4195,15 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2019-09-27T13:11:11Z</dc:date>
                     <dc:date>2019-09-27T13:11:11Z</dc:date>
                     <dc:date>2013</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Diğer</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/967</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4217,7 +4217,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_3353</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Dekortikasyon ameliyatlarında aprotinin kullanımı</dc:title>
                     <dc:creator>Sunam, Güven Sadi</dc:creator>
                     <dc:contributor>Solak, Hasan</dc:contributor>
@@ -4231,15 +4231,15 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2020-11-19T08:30:21Z</dc:date>
                     <dc:date>1994</dc:date>
                     <dc:date>1994</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Sunam, G. S. (2002). Dekortikasyon ameliyatlarında aprotinin kullanımı. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi Cerrahi Tıp Bilimleri Bölümü Göğüs Cerrahisi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/5555</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4252,7 +4252,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Muhammed bin Ebî Bekir el-Mar‛aşî ve Cühdü'l-Mukill adlı eserinin tecvid ilmindeki yeri</dc:title>
                     <dc:title>Muhammed bin Ebî Bekir el-Mar‛aşî and position of his book called Cühdü'l-Mukill in the tecvid discipline</dc:title>
                     <dc:creator>Dokgöz, Fatih</dc:creator>
@@ -4274,15 +4274,15 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2021-04-07T12:25:33Z</dc:date>
                     <dc:date>2018</dc:date>
                     <dc:date>2018-08-10</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Dokgöz, F. (2018). Muhammed bin Ebî Bekir el-Mar‛aşî ve Cühdü'l-Mukill adlı eserinin tecvid ilmindeki yeri. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü Temel İslam Bilimleri Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/7308</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4296,7 +4296,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_3366</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>ST yükselmeli miyokard infarktüslü hastalarda agresif lipid düşürücü tedavide atorvastatin ve rosuvastatinin lipid parametreleri, okside-LDL ve inflamatuar parametreler üzerine etkilerinin karşılaştırılması.</dc:title>
                     <dc:title>The comparision of the agresive lipid lowering therapy with atorvastatin and rosuvastatin on the lipid parameters, ox-LDL, inflamatuary parameters at ST segment elevation myocardial infarction patients.</dc:title>
                     <dc:creator>Aygül, Meryem Ülkü</dc:creator>
@@ -4318,15 +4318,15 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                     <dc:date>2020-11-17T13:15:11Z</dc:date>
                     <dc:date>2008</dc:date>
                     <dc:date>2008</dc:date>
-                    <dc:type>specialtyThesis</dc:type>
+                    <type>specialtyThesis</type>
                     <dc:identifier>Aygül, M. Ü. (2008). ST yükselmeli miyokard infarktüslü hastalarda agresif lipid düşürücü tedavide atorvastatin ve rosuvastatinin lipid parametreleri, okside-LDL ve inflamatuar parametreler üzerine etkilerinin karşılaştırılması.. (Yayınlanmamış tıpta uzmanlık tezi) Necmettin Erbakan Üniversitesi, Meram Tıp Fakültesi  Dahili Tıp Bilimleri Bölümü Kardiyoloji Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/5486</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4339,7 +4339,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_149</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Maliye Nazırı Cavit Bey'in faaliyetleri (1914-1926)</dc:title>
                     <dc:title>Minister of Finance Cavit Bey's activities (1914-1926)</dc:title>
                     <dc:creator>Akbulut, Ömer Furkan</dc:creator>
@@ -4394,15 +4394,15 @@ Court.</dc:description>
                     <dc:date>2023-01-03T12:26:59Z</dc:date>
                     <dc:date>2022</dc:date>
                     <dc:date>2022-07-28</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Akbulut, Ö. F. (2022). Maliye Nazırı Cavit Bey'in faaliyetleri (1914-1926). (Yayımlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Tarih Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/8957</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4417,7 +4417,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Cahiliye dönemi Araplarında para ve ilk İslâm paralarının tedavüle giriş süreci</dc:title>
                     <dc:title>Coin in the Arabs of ignorance period and the process of the  enterence of first İslamic money to the circulation</dc:title>
                     <dc:creator>Şimşir, Mehmet</dc:creator>
@@ -4438,7 +4438,7 @@ Court.</dc:description>
                     <dc:date>2020-01-18T21:11:36Z</dc:date>
                     <dc:date>2020-01-18T21:11:36Z</dc:date>
                     <dc:date>2018</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Şimşir, M. (2018). Cahiliye dönemi Araplarında para ve ilk İslâm paralarının tedavüle giriş süreci. Tarihin Peşinde Uluslararası Tarih ve Sosyal Araştırmalar Dergisi, 18, 18, 267-293.</dc:identifier>
                     <dc:identifier>1308-545X</dc:identifier>
                     <dc:identifier>1308-5468</dc:identifier>
@@ -4448,12 +4448,12 @@ Court.</dc:description>
                     <dc:identifier>18</dc:identifier>
                     <dc:identifier>267</dc:identifier>
                     <dc:identifier>293</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tarihin Peşinde Uluslararası Tarih ve Sosyal Araştırmalar Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4466,7 +4466,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_129</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Mesleki uygulama beklentilerinin kariyer motivasyonu üzerine etkisi: Sağlık yönetimi bölümü öğrencilerine yönelik bir araştırma</dc:title>
                     <dc:title>The impact of professional practice expectations on the career motivation: A study on the students of health management department</dc:title>
                     <dc:creator>Çalışkan, Şerife</dc:creator>
@@ -4487,15 +4487,15 @@ Court.</dc:description>
                     <dc:date>2020-10-16T11:09:13Z</dc:date>
                     <dc:date>2020-10-16T11:09:13Z</dc:date>
                     <dc:date>2019</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Çalışkan, Ş. (2019). Mesleki uygulama beklentilerinin kariyer motivasyonu üzerine etkisi: Sağlık yönetimi bölümü öğrencilerine yönelik bir araştırma. (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sağlık Bilimleri Enstitüsü Sağlık Yönetimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/3952</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sağlık Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4508,7 +4508,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_86</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>"Lax Vox" Suya Üfleme tekniğinin bireysel ses eğitimi derslerinde kullanımı</dc:title>
                     <dc:title>The use of "Lax Vox" Water Blowing techniques in individual voice education courses</dc:title>
                     <dc:creator>Orhan, Cihan</dc:creator>
@@ -4529,15 +4529,15 @@ Court.</dc:description>
                     <dc:date>2020-12-28T08:22:29Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-07-05</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Orhan, C. (2019). "Lax Vox" Suya Üfleme tekniğinin bireysel ses eğitimi derslerinde kullanımı.  (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Güzel Sanatlar Eğitimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6784</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4552,7 +4552,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Vakf-İbtidânın Ayetlerin Anlaşılmasındaki Rolü</dc:title>
                     <dc:title>Role of Wakf &amp; İbtidâ in the Understanding of the Qur’anic Verses</dc:title>
                     <dc:creator>Koyuncu, Recep</dc:creator>
@@ -4575,7 +4575,7 @@ Court.</dc:description>
                     <dc:date>2020-01-18T21:11:50Z</dc:date>
                     <dc:date>2020-01-18T21:11:50Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Koyuncu, R. (2015). Vakf-ibtidânın ayetlerin anlaşılmasındaki rolü. Marife Dini Araştırmalar Dergisi, 15, 1, 163-187.</dc:identifier>
                     <dc:identifier>1303-0671</dc:identifier>
                     <dc:identifier>https://app.trdizin.gov.tr/makale/TWpJM01EQTBOQT09/vakf-ibtidanin-ayetlerin-anlasilmasindaki-rolu</dc:identifier>
@@ -4584,12 +4584,12 @@ Court.</dc:description>
                     <dc:identifier>1</dc:identifier>
                     <dc:identifier>163</dc:identifier>
                     <dc:identifier>187</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Marife Dini Araştırmalar Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4602,7 +4602,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_558</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Türkiye'deki Çavuşçu Gölü'ndeki Sazan ( Cyprinus carpio L. 1758)'da Bazı Organik Klorlu Pestisit Kalıntıların Araştırılması</dc:title>
                     <dc:title>Investıgatıon Of Some Organochlorıne Pestıcıde Resıdues In Carp (Cyprinus carpio L. 1758) From Cavuscu Lake, Turkey</dc:title>
                     <dc:creator>Soylu, Yonca</dc:creator>
@@ -4654,15 +4654,15 @@ consumers.</dc:description>
                     <dc:date>2020-12-15T08:30:04Z</dc:date>
                     <dc:date>2018</dc:date>
                     <dc:date>2018-10-23</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Soylu, Y. (2018). Türkiye'deki Çavuşçu Gölü'ndeki Sazan ( Cyprinus carpio L. 1758)'da Bazı Organik Klorlu Pestisit Kalıntıların Araştırılması, (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü Moleküler Biyoloji ve Genetik Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6429</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4675,7 +4675,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_157</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Divan-ı Hulûsî-i Darendevî'de dînî tasavvufî muhteva</dc:title>
                     <dc:title>Religious and mystical contents in diwan al-Hulusi al-Darendewi</dc:title>
                     <dc:creator>Ayık, Recep</dc:creator>
@@ -4700,15 +4700,15 @@ consumers.</dc:description>
                     <dc:date>2020-10-23T11:53:06Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Ayık, R. (2019). Divan-ı Hulûsî-i Darendevî'de dînî tasavvufî muhteva.  (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü İslam Tarihi Ve Sanatları Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/4345</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4724,7 +4724,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Olanzapine Bağlı Gelişen Nöroleptik Malign Sendrom</dc:title>
                     <dc:title>Olanzapine-Induced Malignant Neuroleptic Syndrome</dc:title>
                     <dc:creator>Sarıtaş, Tuba Berra</dc:creator>
@@ -4747,7 +4747,7 @@ consumers.</dc:description>
                     <dc:date>2020-01-18T21:12:11Z</dc:date>
                     <dc:date>2020-01-18T21:12:11Z</dc:date>
                     <dc:date>2014</dc:date>
-                    <dc:type>article</dc:type>
+                    <type>article</type>
                     <dc:identifier>Yosunkaya, A., Sarıtaş, T. B., Çankaya, B. (2014). Olanzapine bağlı gelişen nöroleptik malign sendrom. Türk Anestezi ve Reanimasyon Dergisi, 42, 5, 288-291.</dc:identifier>
                     <dc:identifier>1304-0871</dc:identifier>
                     <dc:identifier>1305-614X</dc:identifier>
@@ -4757,12 +4757,12 @@ consumers.</dc:description>
                     <dc:identifier>5</dc:identifier>
                     <dc:identifier>288</dc:identifier>
                     <dc:identifier>291</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Türk Anestezi ve Reanimasyon Dergisi</dc:relation>
                     <dc:relation>Makale - Ulusal Hakemli Dergi - Kurum Öğretim Elemanı</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
-                </oai_dc:dc>
+                    <format>application/pdf</format>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4775,7 +4775,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_159</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İslam Ceza Hukukunda suça teşebbüs</dc:title>
                     <dc:title>Attempt to the crime in the Islamic Criminal Law</dc:title>
                     <dc:creator>Çiftci, Adem</dc:creator>
@@ -4797,15 +4797,15 @@ consumers.</dc:description>
                     <dc:date>2019-08-29T13:26:06Z</dc:date>
                     <dc:date>2019-08-29T13:26:06Z</dc:date>
                     <dc:date>2015</dc:date>
-                    <dc:type>doctoralThesis</dc:type>
+                    <type>doctoralThesis</type>
                     <dc:identifier>Diğer</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/837</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4818,7 +4818,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_563</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Kesirli kablo denkleminin uyumlu türev operatörü ile yaklaşık analitik çözümlerinin bulunması</dc:title>
                     <dc:title>Approximate analytical solutions of fractional cable equation with conformable derivative operator</dc:title>
                     <dc:creator>Yaşkıran, Burcu</dc:creator>
@@ -4847,15 +4847,15 @@ consumers.</dc:description>
                     <dc:date>2020-09-02T08:31:05Z</dc:date>
                     <dc:date>2018</dc:date>
                     <dc:date>2018-05-11</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Yaşkıran, B. (2018). Kesirli kablo denkleminin uyumlu türev operatörü ile yaklaşık analitik çözümlerinin bulunması. (Yayınlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü Matematik Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/3698</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Fen Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4868,7 +4868,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_88</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Okul öncesi öğretmenlerinin özel yetenekli öğrencilere yönelik eğitim ihtiyaçlarının incelenmesi: Bir karma yöntem araştırması</dc:title>
                     <dc:title>Investigation of educational needs of preschool teachers for gifted students: A mixed method study</dc:title>
                     <dc:creator>Demirtaş, Özlem</dc:creator>
@@ -4890,15 +4890,15 @@ consumers.</dc:description>
                     <dc:date>2023-07-07T12:48:07Z</dc:date>
                     <dc:date>2023</dc:date>
                     <dc:date>2023-01-25</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Demirtaş, Ö. (2023). Okul öncesi öğretmenlerinin özel yetenekli öğrencilere yönelik eğitim ihtiyaçlarının incelenmesi: Bir karma yöntem araştırması. (Yayımlanmamış yüksek lisans tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü, Özel Eğitim Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/9868</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4911,7 +4911,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_9141</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Tanbûri Cemil Bey'in yaylı sazlarda icrâ ettiği taksimlerin tahlîli ve eğitime yönelik etüdlerin oluşturulması</dc:title>
                     <dc:title>Analyzing of the taksims performed by Tanburi Cemil Bey's in strings instruments and creating educational etuts</dc:title>
                     <dc:creator>Çetik, Özcan</dc:creator>
@@ -4938,15 +4938,15 @@ consumers.</dc:description>
                     <dc:date>2023-02-02T09:33:28Z</dc:date>
                     <dc:date>2023-02-02T09:33:28Z</dc:date>
                     <dc:date>2022-08-11</dc:date>
-                    <dc:type>doctoralThesis</dc:type>
+                    <type>doctoralThesis</type>
                     <dc:identifier>Çetik, Ö. (2022). Tanbûri Cemil Bey'in yaylı sazlarda icrâ ettiği taksimlerin tahlîli ve eğitime yönelik etüdlerin oluşturulması. (Yayımlanmamış doktora tezi). Necmettin Erbakan Üniversitesi, Sosyal Bilimler Enstitüsü, Türk Müziği Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/9142</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Sosyal Bilimler Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -4959,7 +4959,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_83</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>Denizli Mekteb-i idadisi (1892-1935)</dc:title>
                     <dc:title>Mekteb-i idadi of Denizli (1892-1935)</dc:title>
                     <dc:creator>Öksüz, Gamze Nur</dc:creator>
@@ -4987,15 +4987,15 @@ consumers.</dc:description>
                     <dc:date>2021-01-20T08:49:09Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-10-02</dc:date>
-                    <dc:type>masterThesis</dc:type>
+                    <type>masterThesis</type>
                     <dc:identifier>Öksüz, G. N. (2019). Denizli Mekteb-i idadisi (1892-1935). (Yayınlanmamış Yüksek Lisans Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Ortaöğretim Sosyal Alanlar Eğitimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6955</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <record>
@@ -5008,7 +5008,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_523</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc>
+                <oai_dc>
                     <dc:title>İlkokul müfredatına uygun müzik dersi eğitim yazılım programının geliştirilmesi ve uygulanmasının değerlendirilmesi</dc:title>
                     <dc:title>Development and evaluation of a software program specifically designed for music courses within the framework of primary education curriculum</dc:title>
                     <dc:creator>Kibici, Volkan Burak</dc:creator>
@@ -5034,15 +5034,15 @@ consumers.</dc:description>
                     <dc:date>2020-12-26T08:50:39Z</dc:date>
                     <dc:date>2019</dc:date>
                     <dc:date>2019-09-02</dc:date>
-                    <dc:type>doctoralThesis</dc:type>
+                    <type>doctoralThesis</type>
                     <dc:identifier>Kibici, V. B. (2019). İlkokul müfredatına uygun müzik dersi eğitim yazılım programının geliştirilmesi ve uygulanmasının değerlendirilmesi. (Yayınlanmamış Doktora Tezi). Necmettin Erbakan Üniversitesi, Eğitim Bilimleri Enstitüsü Güzel Sanatlar Eğitimi Anabilim Dalı, Konya.</dc:identifier>
                     <dc:identifier>https://hdl.handle.net/20.500.12452/6741</dc:identifier>
-                    <dc:language>tur</dc:language>
+                    <language>tur</language>
                     <dc:relation>Tez</dc:relation>
                     <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
-                    <dc:format>application/pdf</dc:format>
+                    <format>application/pdf</format>
                     <dc:publisher>Necmettin Erbakan Üniversitesi Eğitim Bilimleri Enstitüsü</dc:publisher>
-                </oai_dc:dc>
+                </oai_dc>
             </metadata>
         </record>
         <resumptionToken completeListSize="8559" cursor="1">oai_dc////200</resumptionToken>

@@ -12,10 +12,10 @@ new gridjs.Grid({
           .then((str) => new window.DOMParser().parseFromString(str, "text/xml"));
       },
       then: (data) => {
-        return Array.from(data.querySelectorAll("oai_dc:dc")).map((row) => [
-          row.querySelector("dc:type").innerHTML,
-          row.querySelector("dc:language").innerHTML,
-          row.querySelector("dc:format").innerHTML
+        return Array.from(data.querySelectorAll('oai_dc')).map((row) => [
+          row.querySelector('type').innerHTML,
+          row.querySelector('language').innerHTML,
+          row.querySelector('format').innerHTML
         ]);
       }
     }
