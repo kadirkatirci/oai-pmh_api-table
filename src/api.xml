@@ -14,7 +14,7 @@
                 <setSpec>col_20.500.12452_88</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İlkokul kaynaştırma (bütünleştirme) sınıflarında öğrenim gören hafif düzey zihin engelli ve normal gelişim gösteren son sınıf öğrencilerinin okuduğunu anlama düzeylerinin karşılaştırmalı olarak incelenmesi</dc:title>
                     <dc:title>Examining of reading comprehension levels of students with mild- intellectual disabilities in comparison with normally developed students comprehension levels who are educated in primary inclusion classes</dc:title>
                     <dc:creator>Yüksel, Aylin</dc:creator>
@@ -64,7 +64,7 @@
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Aliağa İlçesinde Arazi Kullanımına Etki Eden Doğal Ve Beşeri Faktörler</dc:title>
                     <dc:title>The Natural and Humanitarian Factors Affecting the Land Use in Aliağa</dc:title>
                     <dc:creator>Eroğlu, İlker</dc:creator>
@@ -114,7 +114,7 @@
                 <setSpec>col_20.500.12452_599</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Türk resim sanatında 1980'den sonra portre soyutlamaları</dc:title>
                     <dc:title>After 1980 in Turkish painting abstract portrait art</dc:title>
                     <dc:creator>Küçükönder, Samet</dc:creator>
@@ -154,7 +154,7 @@
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Ez-Zeccâc ve Kitâbu Fe'altü Ef'altü adlı eserinin içerik ve yöntem açısından incelenmesi</dc:title>
                     <dc:title>Ebu İshak ez-Zeccac and his work Kitabu Fe'altu ve Ef'altu in terms of content and method</dc:title>
                     <dc:creator>Özkal, Ramazan</dc:creator>
@@ -193,7 +193,7 @@
                 <setSpec>col_20.500.12452_156</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Kıbrıslı Türklerin dini yaşayışları üzerine karşılaştırmalı bir araştırma (Güzelyurt örneği)</dc:title>
                     <dc:title>A comparative research on the religious livesof Turkish Cypriots (example of Morphou)</dc:title>
                     <dc:creator>Sezgin, İsmail</dc:creator>
@@ -241,7 +241,7 @@
                 <setSpec>col_20.500.12452_5412</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Solunum yetmezlikli hastalarda noninvaziv mekanik ventilasyonun mortaliteye etkisi ve başarıyı etkileyen faktörler</dc:title>
                     <dc:title>Noninvaziv mechanic ventilation affects on mortality and the factors to be succesfull in respiratory failure</dc:title>
                     <dc:creator>Duran, Ümmüye</dc:creator>
@@ -288,7 +288,7 @@
                 <setSpec>col_20.500.12452_1224</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Homocysteine levels in patients with masked hypertension</dc:title>
                     <dc:creator>Yücel, Kamile</dc:creator>
                     <dc:creator>Bekçi, Taha Tahir</dc:creator>
@@ -337,7 +337,7 @@
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Öğretmen  adaylarının bireysel yenilikçilik özelliklerinin  farklı değişkenler  açısından  incelenmesi</dc:title>
                     <dc:title>Examination of teacher candidates individual ınnovativeness properties from the different variables</dc:title>
                     <dc:creator>Korucu, Agâh Tuğrul</dc:creator>
@@ -392,7 +392,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Predictive Relationships Between Secondary School Students Human Values, Motivational Beliefs, And Self-Regulated Learning Strategies</dc:title>
                     <dc:title>Orta öğretim öğrencilerinin insani değerleri, motivasyonel inançları ve öz-düzenleme stratejileri arasındaki yordayıcı İlişkiler</dc:title>
                     <dc:creator>Tanrıseven, Işıl</dc:creator>
@@ -439,7 +439,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>68-72 Aylık Okul Öncesine ve İlkokula Devam Eden Çocukların Okula Uyum ve Öğretmenleriyle İlişkilerinin Karşılaştırılması</dc:title>
                     <dc:title>The Comparison of 68-72 Months Pre-School and Primary School Children'sRelationships with Their Teachers and Their School Adjustment</dc:title>
                     <dc:creator>Ogelman, Hülya Gülay</dc:creator>
@@ -491,7 +491,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_558</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Endoplazmik Retikulum Stresine Maruz Bırakılan Arabıdopsis Thalıana’da Dışarıdan Uygulanan Kurkuminin Antioksidan Enzim/İzozim Profillemesi Üzerine Etkileri</dc:title>
                     <dc:title>The Effects on Antıoxidant Enzyme/Isozyme Profiling of Exogenous Application of Curcumin in Arabıdopsis Thaliana Exposed to Endoplasmic Reticulum Stress</dc:title>
                     <dc:creator>Yalçınkaya Cankurt, Merve</dc:creator>
@@ -535,7 +535,7 @@ innovation	properties	show	significant	difference	class	level	and	it	doesn’t	s
                 <setSpec>col_20.500.12452_83</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Uzaktan Eğitimde Tarih Öğretimi ve Karşılaşılan Sorunlar</dc:title>
                     <dc:title>History Teaching and Problems Encountered in Distance Education</dc:title>
                     <dc:creator>Altuntaş, Yavuz Sabri</dc:creator>
@@ -624,7 +624,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Oyun terapisiyle bütünleştirilmiş grupla psikolojik danışmanın ilkokul öğrencilerinin sosyal kaygı düzeylerine etkisi</dc:title>
                     <dc:title>The effects of group counseling integrated with play therapy on social anxiety levels of children at primary school</dc:title>
                     <dc:creator>Teke, Esra</dc:creator>
@@ -669,7 +669,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_152</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>1980 Sonrası İslamcı Dergilerde Kadın ve Kadının Çalışma Hayatı: Kadın Kimliği Dergisi Örneği</dc:title>
                     <dc:title>Women and Theirworking Life in Islamic Magazines After the Eighties: An Example of Kadın Kimliği (Women’s Identity)</dc:title>
                     <dc:creator>Yıldırım, Fadime</dc:creator>
@@ -719,7 +719,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_8969</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Abdullah b. Muhammed eş-Şebrâvî (ö. 1171-1758) ve Ehli Beyt hakkındaki şiirleri</dc:title>
                     <dc:title>Abdullah B. Muhammad Al-Shabrawı and his poems about Ahl Al-Beyt</dc:title>
                     <dc:creator>İyişenyürek, Orhan</dc:creator>
@@ -768,7 +768,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İmam Mâtürîdî'ye göre haberî sıfatlar</dc:title>
                     <dc:title>Attributes al-Akhbar according to İmam Maturidi</dc:title>
                     <dc:creator>Kutman Uulu, Melis</dc:creator>
@@ -822,7 +822,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_9420</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Interpretation of the Quran in contemporary Indonesia a study on M. Quraish Shihab and his work “Tafsir Al-Mishbāh”</dc:title>
                     <dc:title>Çağdaş Endoneyza’da Kur’an Tefsiri: M.Quraish Shihab ve “Tafsir Al Mishbah” adlı eseri üzerine bir çalışma üzerine</dc:title>
                     <dc:creator>Andriawan, Didik</dc:creator>
@@ -874,7 +874,7 @@ opportunity to use their knowledge with encouraging practices.</dc:description>
                 <setSpec>col_20.500.12452_597</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Ebüzziyâ Mehmed Tevfik Bey’in Hayatı ve Hat Eserleri</dc:title>
                     <dc:title>Life and Calligraphic Works of Ebuzziya Mehmed Tevfik Bey</dc:title>
                     <dc:creator>Selalmaz, Serkan</dc:creator>
@@ -946,7 +946,7 @@ and architectural works in terms of calligraphy aesthetics.</dc:description>
                 <setSpec>col_20.500.12452_549</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Disleksili öğrencilerle çalışan öğretmenler için geliştirilen eğitim programının öğretmen yeterliklerine etkisinin incelenmesi</dc:title>
                     <dc:title>The effectiveness of training program developed for teachers working with dyslexic students on their competencies</dc:title>
                     <dc:creator>Kızılkaya, Hasan</dc:creator>
@@ -995,7 +995,7 @@ and architectural works in terms of calligraphy aesthetics.</dc:description>
                 <setSpec>col_20.500.12452_598</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Rekreasyonel Aktivitelere Katılımın Ekolojik Tutum Açısından Değerlendirilmesi</dc:title>
                     <dc:title>Evaluation of Participation in Recreational Activities in Terms of Ecological Attitude</dc:title>
                     <dc:creator>Bayrak, Ali</dc:creator>
@@ -1095,7 +1095,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Behçet Hastalığında Üst Ekstremite Trombozu</dc:title>
                     <dc:title>Upper extremity thrombosis in Behçets disease</dc:title>
                     <dc:creator>Küçük, Adem</dc:creator>
@@ -1148,7 +1148,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_152</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Milli Görüş Hareketinde Bir Kırılma Noktası Olarak 28 Şubat Süreci</dc:title>
                     <dc:title>February 28 Process as a Breaking Point in the Movement of National Idea</dc:title>
                     <dc:creator>Bakırtaş, Naciye</dc:creator>
@@ -1198,7 +1198,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_9426</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Ahkam Tefsirleri ve özellikleri</dc:title>
                     <dc:title>Ahkam Commentaries and their features</dc:title>
                     <dc:creator>Gökmenoğlu, Hüseyin Tekin</dc:creator>
@@ -1240,7 +1240,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Bilim sanat merkezlerinde bilim etkinliklerinden faydalanan üstün zekalı öğrencilerin bilim okuryazarlığının analizi</dc:title>
                     <dc:title>Analysis of gifted students' scientific literacy who benefit from scientific acitivities in science and art centres</dc:title>
                     <dc:creator>Kömek, Emre</dc:creator>
@@ -1283,7 +1283,7 @@ used to detect significant groups (α = 0.05).</dc:description>
                 <setSpec>col_20.500.12452_8705</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Nazarât fi teaddiyyi’l-fi’l ve lüzûmihî fi’s-sahâfeti’l-Mısriyye (II)</dc:title>
                     <dc:title>Mısır basınında kullanılan fiillere geçişlilik ve geçişsizlik yönüyle bir bakış</dc:title>
                     <dc:title>(II) نظرات في تعدي الفعل ولزومه في الصحافة المصرية</dc:title>
@@ -1342,7 +1342,7 @@ kabul edilebilir bir gerekçesinin (dayanağının) olması mümkündür.</dc:de
                 <setSpec>col_20.500.12452_146</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İslamofobi; Bosna Hersek Savaşı örneği</dc:title>
                     <dc:title>Islamofobi; Bosnia and Herzegovina War example</dc:title>
                     <dc:creator>Özkan, Tuba</dc:creator>
@@ -1431,7 +1431,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Beş yıllık yama testi sonuçlarımız</dc:title>
                     <dc:title>Five year patch test results</dc:title>
                     <dc:creator>Şahin, Tahir Kemal</dc:creator>
@@ -1481,7 +1481,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Coexistence Of Migraine Headache And Red Ear Syndrome</dc:title>
                     <dc:title>Kırmızı Kulak Sendromu İle Birliktelik Gösteren Migren Baş Ağrısı</dc:title>
                     <dc:creator>Uca, Ali Ulvi</dc:creator>
@@ -1523,7 +1523,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Tebliğ Cemaati'nin Afganistan'daki faaliyetleri</dc:title>
                     <dc:title>The activities of Tablighi Jamaat in Afghanistan</dc:title>
                     <dc:creator>Mubashir, Bibi Samia</dc:creator>
@@ -1565,7 +1565,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_3299</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Ekzojen obez çocuk ve adolesanlarda subklinik hipotiroidi sıklığının değerlendirilmesi</dc:title>
                     <dc:title>Evaluation of the prevalence of subclinical hypothyroidism in exogenous obese children and adolescents</dc:title>
                     <dc:creator>Özelbaykal, Gülsena</dc:creator>
@@ -1602,7 +1602,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_599</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Türk ressamların eserlerinde görülen geleneksel halı ve kilim tasvirleri (1882 sonrası dönem)</dc:title>
                     <dc:title>Traditional carpet and rug designs in the works of Turkish artists (the period after 1882)</dc:title>
                     <dc:creator>Tatlıcı, Müzeyyen</dc:creator>
@@ -1644,7 +1644,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_157</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Hüsn-i Hat Levhalarında Edebî Hikemî Muhtevâ (Türkçe Levhalar)</dc:title>
                     <dc:creator>Arlı, Halime</dc:creator>
                     <dc:contributor>Ak, Murat</dc:contributor>
@@ -1693,7 +1693,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Limb-Girdle Musküler Distrofi’li Gebede Anestezi Yönetimi</dc:title>
                     <dc:title>Anesthetic Management of A Pregnant Woman With Limb-Girdle Muscular Dystrophy</dc:title>
                     <dc:creator>Yılmaz, Resul</dc:creator>
@@ -1751,7 +1751,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Multi Travmalı Bir Olguda İnfraklaviküler Blok Deneyimimiz</dc:title>
                     <dc:title>Infraclavicular Block Experience in a case of Multiple Trauma Patient</dc:title>
                     <dc:creator>Sargın, Mehmet</dc:creator>
@@ -1802,7 +1802,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_7571</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Otonom araç üzerinde artırılmış gerçeklik uygulaması</dc:title>
                     <dc:title>Augmented reality application on autonomous vehicle</dc:title>
                     <dc:creator>Bilban, Mehmet</dc:creator>
@@ -1845,7 +1845,7 @@ a role in this war were examined.</dc:description>
                 <setSpec>col_20.500.12452_157</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İslâm filozoflarında sanat ve estetik</dc:title>
                     <dc:title>Art and aesthetics in Islamic philosophers</dc:title>
                     <dc:creator>Gezgiç, Mehmet</dc:creator>
@@ -1909,7 +1909,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>XII.-XIII. yüzyıllarda Maturidiliğin Irak, Suriye ve Anadolu'da yayılışı</dc:title>
                     <dc:title>pread of Maturidism in Iraq, Sryia and Anatolia in the period of XII. and XIII. ages</dc:title>
                     <dc:creator>Çevik, İsmail</dc:creator>
@@ -1957,7 +1957,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_5773</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Anestezi altında kolonoskopi yapılacak hastalarda menstruel siklusun etkileri</dc:title>
                     <dc:title>Effects of the menstrual cycle in patients who undervent colonoscopy under anesthesia</dc:title>
                     <dc:creator>Üstün, Damlanur</dc:creator>
@@ -1997,7 +1997,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Animasyon kullanımının öğretmen adaylarının genel kimya dersindeki erişilerine, tutumlarına ve kalıcılık düzeylerine etkisi</dc:title>
                     <dc:title>The effect of using animation on the candidate teachers' academic achievements, attitudes and retention levels</dc:title>
                     <dc:creator>Bayram, Kadriye</dc:creator>
@@ -2042,7 +2042,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Lise 9. sınıf öğrencilerinde difüzyon ve ozmosla ilgili kavram yanılgıları</dc:title>
                     <dc:title>Misconceptions about diffusion and osmosis concepts held by secondary education 9th level students</dc:title>
                     <dc:creator>Koyuncuer, Bayram</dc:creator>
@@ -2087,7 +2087,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Arterya Karotis İnternanın Seyir Varyasyonları</dc:title>
                     <dc:title>Variations in the course of internal carotid artery</dc:title>
                     <dc:creator>Acar, Musa</dc:creator>
@@ -2139,7 +2139,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_567</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Lojistik Köylerin Analizi ve Planlamasında Coğrafi Bilgi Sistemi Kullanımı: Kayacık Örneği</dc:title>
                     <dc:title>Application of Geographic İnformation System for Logistic Villages Planning and Analysis: Kayacık Sample</dc:title>
                     <dc:creator>Alragheb, Hesham</dc:creator>
@@ -2182,7 +2182,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_86</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Özel eğitim öğrencilerinin eğitiminde görsel sanatlar dersine yönelik öğretmen görüşleri</dc:title>
                     <dc:title>Teachers' views about visual arts lesson in educating students of private education</dc:title>
                     <dc:creator>Şen, Vesile</dc:creator>
@@ -2227,7 +2227,7 @@ Allah, the main source of beauty in the universe.</dc:description>
                 <setSpec>col_20.500.12452_88</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>6 Yaş Çocuklarının Geometrik Şekilleri Tanıma Becerileri, Korunum Becerileri Ve Erken Matematik Becerilerinin İncelenmesi</dc:title>
                     <dc:title>Investigation Of 6 Year Old Children's Skills To Recognize Geometric Shapes, Conservation Skills And Early Mathematical Skills</dc:title>
                     <dc:creator>Özturhan, Merve</dc:creator>
@@ -2277,7 +2277,7 @@ According to the findings of the study, the mean scores of 6-year-old children i
                 <setSpec>col_20.500.12452_8903</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Muhammed Hasan Alvân’ın “Mevtun Sağîrun” (Küçük Bir Ölüm) adlı romanının teknik ve tematik incelemesi</dc:title>
                     <dc:title>Technical and thematic analysis of Muhammad Hasan Alwan’s novel: Mawton Sagheer (Small Death)</dc:title>
                     <dc:creator>Eminoğlu, Ali</dc:creator>
@@ -2343,7 +2343,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Üst düzey matematiksel düşünme süreçlerinin sorgulayıcı problem çözme ve öğrenme modeline göre tasarlanmış çalışma yaprakları yardımıyla incelenmesi</dc:title>
                     <dc:title>Investigation of advanced mathematical thinking processes with worksheets designed by inquiry problem solving and learning model</dc:title>
                     <dc:creator>Coşkun, Sema</dc:creator>
@@ -2387,7 +2387,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Laktasyonda Olmayan Kadında E.Coliye Bağlı Bilateral Meme Apsesi: Nadir Bir Olgu</dc:title>
                     <dc:title>Bilateral Breast Abscess Caused by E.coli in a Non-lactating Woman: A Rare Case</dc:title>
                     <dc:creator>Şimşek, Gürcan</dc:creator>
@@ -2435,7 +2435,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_3368</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Tümör belirteçleri yüksek olan veya kontrastlı abdominal BT'de şüpheli lezyonu bulunan over kanserli hastalarda nüks ve/veya intraabdominal metastazların belirlenmesinde FDG-PET/BT'nin rolü</dc:title>
                     <dc:title>The role of FDG-PET/CT in detecting recurrences and/or intraabdominal metastases in ovarian cancer patients with increased tumor markers or suspicious lesions in contrast enhanced-CT</dc:title>
                     <dc:creator>Kaya, Buğra</dc:creator>
@@ -2476,7 +2476,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_547</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İlkokul sosyal bilgiler öğretiminde Başarılı Zeka Kuramına dayalı etkinliklerin düşünme becerilerine etkisi</dc:title>
                     <dc:title>The effects of the activities, which are based on Successful Intelligence Theory, on thinking skills in primary school social studies education</dc:title>
                     <dc:creator>Yıldız, Nihal</dc:creator>
@@ -2514,7 +2514,7 @@ handled in the novel place and time elements with literary images and alchemists
                 <setSpec>col_20.500.12452_561</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Türkiye'deki İllerin İktisadi Faaliyet Kollarına Göre Etkinliklerinin Veri Zarflama Analizi ile Değerlendirilmesi</dc:title>
                     <dc:title>The Evaluatıon of The Efficiency of The Provinces in Turkey by Kind of Economic Activity Via Data Envelopment Analysis</dc:title>
                     <dc:creator>Gürel, İbrahim Umut</dc:creator>
@@ -2589,7 +2589,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_560</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Sıvılaştırılmış doğal gazın (LNG) soğuk enerjisini kullanan yeni bir birleşik güç sisteminin enerji, ekserji ve eksergo-ekonomik analizi</dc:title>
                     <dc:title>Energy, exergy and exergo-economic analysis of a novel combined power system using the cold energy of liquified natural gas (LNG)</dc:title>
                     <dc:creator>Uçar, İbrahim</dc:creator>
@@ -2638,7 +2638,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_3365</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>1996-2003 yılları arasında takip ettiğimiz hodgkin ve hodgkin dışı lenfoma hastalarımızın değerlendirilmesi</dc:title>
                     <dc:creator>Hidayetoğlu, Bahauddin Taha</dc:creator>
                     <dc:contributor>Ecirli, Şamil</dc:contributor>
@@ -2673,7 +2673,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_3358</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Baş boyun bölgesinin non melanotik malign deri tümörlerinin rekürrens ve metastaz kriterlerinin araştırılması</dc:title>
                     <dc:title>A research on the recurrence and metastasis criteria of nonmelanotic malign skin tumors in the head and neck region</dc:title>
                     <dc:creator>Sodalı, Tuğba</dc:creator>
@@ -2712,7 +2712,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_152</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Doksanlı yıllarda müzik ve siyaset: Seçim şarkıları üzerine bir araştırma</dc:title>
                     <dc:title>Music and politics in the nineties: A research on election songs</dc:title>
                     <dc:creator>Girgin, Özlem</dc:creator>
@@ -2761,7 +2761,7 @@ services activity branch were found to be effective.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Pulmoner ve ekstrapulmoner tüberküloz hastalarında CCL1 rs159294 T/A gen polimorfizminin araştırılması</dc:title>
                     <dc:title>Investigation of CCL1 rs159294 T/A gene polymorphism in pulmonary and extrapulmonary tuberculosis patients</dc:title>
                     <dc:creator>Özdemir, Fethi Ahmet</dc:creator>
@@ -2823,7 +2823,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Drama öğretim tekniğinin yabancı dil kelime öğretimine ve öğrencilerin kelime öğrenmeye yönelik tutumlarına etkisi</dc:title>
                     <dc:title>Influence of the drama teaching method on foreign language vocabulary teaching and on students' attitudes towards vocabulary learning</dc:title>
                     <dc:creator>Başören, Muhammet Tarık</dc:creator>
@@ -2863,7 +2863,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>1975-1980 arasında Türkiye’deki siyasi olaylar ve siyasi görüşlerin dildeki yansımaları</dc:title>
                     <dc:title>The reflections of Turkey's political events and political views between 1975-1980</dc:title>
                     <dc:creator>Çal, Ahmet</dc:creator>
@@ -2918,7 +2918,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_597</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Mehmed Şefik Bey'in hayatı ve eserleri</dc:title>
                     <dc:title>Mehmed Şefik Bey's life and works</dc:title>
                     <dc:creator>Korkmaz, Hatice Kübra</dc:creator>
@@ -2952,7 +2952,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_3355</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Koroner arter hastalığında fibrinojen ve Faktör VII'nin rolü</dc:title>
                     <dc:title>The Role of fibrinogen and factor VII in coronary artery disease</dc:title>
                     <dc:creator>Altınbaş, Ahmet</dc:creator>
@@ -2993,7 +2993,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_85</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Öğretmenlerin okullarına duygusal bağlılıklarını etkileyen faktörlere ilişkin görüşlerinin incelenmesi</dc:title>
                     <dc:title>An examination of teachers' views of the factors affecting their affective commitment to their schools</dc:title>
                     <dc:creator>Kalaycı, Halit</dc:creator>
@@ -3038,7 +3038,7 @@ Sonuç: CCL1 rs159294 T/A polimorfizmi, popülasyonumuz da tüberküloz hastalı
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Emeviler döneminde meydana gelen dini-siyasi hareketlerde kûfe'nin önemi</dc:title>
                     <dc:title>The importance of the kufe in religious-political movements through the Umayyad period</dc:title>
                     <dc:creator>Keleş, Hakan</dc:creator>
@@ -3102,7 +3102,7 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İlkokul 4. sınıf görsel sanatlar dersinde sanal müze uygulamasına ilişkin öğretmen, öğrenci ve veli görüşleri</dc:title>
                     <dc:title>The views of teachers, students and parents about virtual museum application in the 4th grade primary school visual arts course</dc:title>
                     <dc:creator>Canlı, Kezban</dc:creator>
@@ -3140,7 +3140,7 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                 <setSpec>col_20.500.12452_3368</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Prostat kanseri tanısında prostat spesifik antijen ve transrektal ultrasonografi bulgularının karşılaştırılması ve altı kadran prostat biyopsisinin yeri</dc:title>
                     <dc:creator>Börekçi, Bekir</dc:creator>
                     <dc:contributor>Karaköse, Serdar</dc:contributor>
@@ -3177,7 +3177,7 @@ Bayaniyya, Muğırıyya and Canahıyya.</dc:description>
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Lise öğrencilerinin kelebeğin yaşam döngüsü bağlamında sistem düşünme becerileri</dc:title>
                     <dc:title>High school student's systems thinking skills in the context of the life cycle of a butterfly</dc:title>
                     <dc:creator>Çakmak, Seda</dc:creator>
@@ -3237,7 +3237,7 @@ biology.</dc:description>
                 <setSpec>col_20.500.12452_166</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Dinî içerikli çocuk kitaplarının öğretmen görüşleri çerçevesinde değerlendirilmesi</dc:title>
                     <dc:title>Evaluation of religious-content children books according to teachers' views</dc:title>
                     <dc:creator>Turanalp, Muhammed Fatih</dc:creator>
@@ -3287,7 +3287,7 @@ biology.</dc:description>
                 <setSpec>col_20.500.12452_8722</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>el-Cevherî’nin es-Sıhâh: Tâcu’l-luğa ve Sıhâhu’l-Arabiyye’siyle İbn Fâris’in Mu’cemu Mekâyîsi’l-Lüga’sında ‘erâde’ ve ‘şâe’ fiillerinin karşılaştırılmalı anlamları</dc:title>
                     <dc:title>Comparative meanings of the verbs (a-ra-da and sha-a) in the Dictionaries of al-Jawhari and Ibn Fares</dc:title>
                     <dc:title>المعاني المقارنة للأفعال أراد وشاء في قواميس الجوهري وابن فارس</dc:title>
@@ -3360,7 +3360,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_565</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Grafen esaslı iletken desenlerin hazırlanması ve elektrokimyasal karakterizasyonu</dc:title>
                     <dc:title>Preparation of graphene based conductive patterns and their electrochemical characterization</dc:title>
                     <dc:creator>Soğancı, Kübra</dc:creator>
@@ -3409,7 +3409,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_559</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Güneş enerjisi santrallerinde derin öğrenme kullanılarak elektrik üretimi tahmininin yapılması</dc:title>
                     <dc:title>Estimation electricity generation using deep learning on solar power plants</dc:title>
                     <dc:creator>Kıymaz, Yunus Emre</dc:creator>
@@ -3455,7 +3455,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_82</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Ortaokul 5. ve 8. sınıf öğrencilerinin çevrenin bugünü ve 50 yıl sonrasına yönelik algıları: Fenomenografik bir çalışma</dc:title>
                     <dc:title>Secondary school, 5th and 8th grade student's perception on today and on the next fifty years of environment: A phenomenographic study</dc:title>
                     <dc:creator>Müezzinoğlu, Fazıl Şükrü</dc:creator>
@@ -3495,7 +3495,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Sınıf öğretmenlerinin sosyal bilgiler programındaki değerlerle ilgili görüşleri ve bunların kazandırılmasına ilişkin uygulamaları</dc:title>
                     <dc:title>Primary school teachers' opinions about the values in social sciences programme and their practices for having them acquired</dc:title>
                     <dc:creator>Akdemir, Sultan</dc:creator>
@@ -3534,7 +3534,7 @@ accompanied by various examples.</dc:description>
                 <setSpec>col_20.500.12452_556</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Kırınım Pencereli Kurutma Şartlarının Yumurta Tozlarının Fiziksel ve Kimyasal Özellikleri Üzerine Etkilerinin Araştırılması</dc:title>
                     <dc:title>Investigation of The Effect of Refractance Window Drying Conditions on The Physical and Chemical Properties of Egg Powders</dc:title>
                     <dc:creator>Günışık, Ayşe</dc:creator>
@@ -3602,7 +3602,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_3352</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Esansiyel Blefarospazmlı hastalarda Botulinum Toksin enjeksiyon tedavisinin etkinliği</dc:title>
                     <dc:title>The effectiveness of Botulinum toxin injection treatment in patients with essential Blepharospazm</dc:title>
                     <dc:creator>Ali, Nermin Palancı</dc:creator>
@@ -3638,7 +3638,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_564</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Alışveriş merkezlerinin sürdürülebilir ulaşım türleriyle erişilebilirliğinin irdelenmesi: Konya örneği</dc:title>
                     <dc:title>Exami̇ni̇ng accessibility by types of sustainable transportation for shoppi̇ng centers: The case of Konya</dc:title>
                     <dc:creator>Alper Öztoklu, Büşra</dc:creator>
@@ -3676,7 +3676,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_560</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Bilyeleme yöntemiyle şekillendirilmiş çelik boruların aşınma davranışları ve mekanik özelliklerinin deneysel incelenmesi</dc:title>
                     <dc:title>Experimental investigation of wear behavior and mechanical properties of ballised steel pipes</dc:title>
                     <dc:creator>Özyaman, Musa</dc:creator>
@@ -3718,7 +3718,7 @@ fast, high quality and effective alternative drying method in egg powder product
                 <setSpec>col_20.500.12452_509</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Normalizasyon Tekniklerinin Biyomedikal Verilerde Sınıflama Başarısına Etkisi</dc:title>
                     <dc:title>Effect of Normalization Techniques on Classification Success in Biomedical Data</dc:title>
                     <dc:creator>Yüce, Hakan</dc:creator>
@@ -3801,7 +3801,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_81</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Hayat boyu öğrenme kapsamında Okullar Hayat Olsun Projesi'nin ilkokullarda uygulanışının incelenmesi (Konya ili örneği)</dc:title>
                     <dc:title>Examination of the application in primary schools of the Project Let the Schools Be Life in the realm of life-long learning (Example: Konya)</dc:title>
                     <dc:creator>Erkal, Coşkun</dc:creator>
@@ -3832,7 +3832,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_130</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Adölesanlarda sağlık algısının besin etiketi okuma alışkanlıkları üzerine etkisi</dc:title>
                     <dc:title>The effect of health perception on nutritional label reading habits in adolescents</dc:title>
                     <dc:creator>Gültekin, Betül</dc:creator>
@@ -3874,7 +3874,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_561</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Güneş Enerjili Su Pompalama Sistem Tasarımı: Somali Örneği</dc:title>
                     <dc:title>Solar Water Pumping System Design: The Case of Somalia</dc:title>
                     <dc:creator>Isak, Abdullahi Mohamed</dc:creator>
@@ -3919,7 +3919,7 @@ improve the performance of artificial intelligence classification methods.</dc:d
                 <setSpec>col_20.500.12452_600</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Beyşehir Zamana Yolculuk Dükkânında Bulunan Geleneksel Konut Mimarisine Bağlı Ahşap Kapı Kanatları</dc:title>
                     <dc:title>Wooden Door Wings Connected to Traditional House Architecture Found in Beysehir Time Travel Shop</dc:title>
                     <dc:creator>Zıvlak, Havva</dc:creator>
@@ -4034,7 +4034,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Miyoplarda Multifokal Elektroretinografı</dc:title>
                     <dc:title>Multifocal Electroretinography in Myopia</dc:title>
                     <dc:creator>Tokgöz, Mine</dc:creator>
@@ -4086,7 +4086,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>The Sufi Doctrine of Man : Sadr al-Din al-Qunawi's Metaphysical Anthropology, by Richard Todd (Leiden: Brill 2014), ISBN: 978-9004-27123-4,  EUR107.00 / $138.00 (hb)</dc:title>
                     <dc:creator>Argon, Kemal Enz</dc:creator>
                     <dc:contributor>Kemal Enz Argon: 0000-0003-0333-0438</dc:contributor>
@@ -4125,7 +4125,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Uyku Yoksunluğunun Duygudurum Profili ve Dissosiyasyon Üzerine Etkisi ve Biyokimyasal Değişimlerle İlişkisi</dc:title>
                     <dc:title>The Effects of Sleep Deprivation on Dissociation and Profiles of Mood, and Its Association with Biochemical Changes</dc:title>
                     <dc:creator>Selvi, Yavuz</dc:creator>
@@ -4175,7 +4175,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Metodu ve konuları itibariyle Beyânu'l- Hak tefsiri</dc:title>
                     <dc:title>The tafsir of Beyânu'l-Hak from the point its method and subject.</dc:title>
                     <dc:creator>Akalp, Melahat</dc:creator>
@@ -4217,7 +4217,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_3353</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Dekortikasyon ameliyatlarında aprotinin kullanımı</dc:title>
                     <dc:creator>Sunam, Güven Sadi</dc:creator>
                     <dc:contributor>Solak, Hasan</dc:contributor>
@@ -4252,7 +4252,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_155</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Muhammed bin Ebî Bekir el-Mar‛aşî ve Cühdü'l-Mukill adlı eserinin tecvid ilmindeki yeri</dc:title>
                     <dc:title>Muhammed bin Ebî Bekir el-Mar‛aşî and position of his book called Cühdü'l-Mukill in the tecvid discipline</dc:title>
                     <dc:creator>Dokgöz, Fatih</dc:creator>
@@ -4296,7 +4296,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_3366</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>ST yükselmeli miyokard infarktüslü hastalarda agresif lipid düşürücü tedavide atorvastatin ve rosuvastatinin lipid parametreleri, okside-LDL ve inflamatuar parametreler üzerine etkilerinin karşılaştırılması.</dc:title>
                     <dc:title>The comparision of the agresive lipid lowering therapy with atorvastatin and rosuvastatin on the lipid parameters, ox-LDL, inflamatuary parameters at ST segment elevation myocardial infarction patients.</dc:title>
                     <dc:creator>Aygül, Meryem Ülkü</dc:creator>
@@ -4339,7 +4339,7 @@ used in the wood art of the 18 works we examined were analyzed, and their import
                 <setSpec>col_20.500.12452_149</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Maliye Nazırı Cavit Bey'in faaliyetleri (1914-1926)</dc:title>
                     <dc:title>Minister of Finance Cavit Bey's activities (1914-1926)</dc:title>
                     <dc:creator>Akbulut, Ömer Furkan</dc:creator>
@@ -4417,7 +4417,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Cahiliye dönemi Araplarında para ve ilk İslâm paralarının tedavüle giriş süreci</dc:title>
                     <dc:title>Coin in the Arabs of ignorance period and the process of the  enterence of first İslamic money to the circulation</dc:title>
                     <dc:creator>Şimşir, Mehmet</dc:creator>
@@ -4466,7 +4466,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_129</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Mesleki uygulama beklentilerinin kariyer motivasyonu üzerine etkisi: Sağlık yönetimi bölümü öğrencilerine yönelik bir araştırma</dc:title>
                     <dc:title>The impact of professional practice expectations on the career motivation: A study on the students of health management department</dc:title>
                     <dc:creator>Çalışkan, Şerife</dc:creator>
@@ -4508,7 +4508,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_86</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>"Lax Vox" Suya Üfleme tekniğinin bireysel ses eğitimi derslerinde kullanımı</dc:title>
                     <dc:title>The use of "Lax Vox" Water Blowing techniques in individual voice education courses</dc:title>
                     <dc:creator>Orhan, Cihan</dc:creator>
@@ -4552,7 +4552,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Vakf-İbtidânın Ayetlerin Anlaşılmasındaki Rolü</dc:title>
                     <dc:title>Role of Wakf &amp; İbtidâ in the Understanding of the Qur’anic Verses</dc:title>
                     <dc:creator>Koyuncu, Recep</dc:creator>
@@ -4602,7 +4602,7 @@ Court.</dc:description>
                 <setSpec>col_20.500.12452_558</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Türkiye'deki Çavuşçu Gölü'ndeki Sazan ( Cyprinus carpio L. 1758)'da Bazı Organik Klorlu Pestisit Kalıntıların Araştırılması</dc:title>
                     <dc:title>Investıgatıon Of Some Organochlorıne Pestıcıde Resıdues In Carp (Cyprinus carpio L. 1758) From Cavuscu Lake, Turkey</dc:title>
                     <dc:creator>Soylu, Yonca</dc:creator>
@@ -4675,7 +4675,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_157</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Divan-ı Hulûsî-i Darendevî'de dînî tasavvufî muhteva</dc:title>
                     <dc:title>Religious and mystical contents in diwan al-Hulusi al-Darendewi</dc:title>
                     <dc:creator>Ayık, Recep</dc:creator>
@@ -4724,7 +4724,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_1223</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Olanzapine Bağlı Gelişen Nöroleptik Malign Sendrom</dc:title>
                     <dc:title>Olanzapine-Induced Malignant Neuroleptic Syndrome</dc:title>
                     <dc:creator>Sarıtaş, Tuba Berra</dc:creator>
@@ -4775,7 +4775,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_159</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İslam Ceza Hukukunda suça teşebbüs</dc:title>
                     <dc:title>Attempt to the crime in the Islamic Criminal Law</dc:title>
                     <dc:creator>Çiftci, Adem</dc:creator>
@@ -4818,7 +4818,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_563</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Kesirli kablo denkleminin uyumlu türev operatörü ile yaklaşık analitik çözümlerinin bulunması</dc:title>
                     <dc:title>Approximate analytical solutions of fractional cable equation with conformable derivative operator</dc:title>
                     <dc:creator>Yaşkıran, Burcu</dc:creator>
@@ -4868,7 +4868,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_88</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Okul öncesi öğretmenlerinin özel yetenekli öğrencilere yönelik eğitim ihtiyaçlarının incelenmesi: Bir karma yöntem araştırması</dc:title>
                     <dc:title>Investigation of educational needs of preschool teachers for gifted students: A mixed method study</dc:title>
                     <dc:creator>Demirtaş, Özlem</dc:creator>
@@ -4911,7 +4911,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_9141</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Tanbûri Cemil Bey'in yaylı sazlarda icrâ ettiği taksimlerin tahlîli ve eğitime yönelik etüdlerin oluşturulması</dc:title>
                     <dc:title>Analyzing of the taksims performed by Tanburi Cemil Bey's in strings instruments and creating educational etuts</dc:title>
                     <dc:creator>Çetik, Özcan</dc:creator>
@@ -4959,7 +4959,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_83</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>Denizli Mekteb-i idadisi (1892-1935)</dc:title>
                     <dc:title>Mekteb-i idadi of Denizli (1892-1935)</dc:title>
                     <dc:creator>Öksüz, Gamze Nur</dc:creator>
@@ -5008,7 +5008,7 @@ consumers.</dc:description>
                 <setSpec>col_20.500.12452_523</setSpec>
             </header>
             <metadata>
-                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                <oai_dc:dc>
                     <dc:title>İlkokul müfredatına uygun müzik dersi eğitim yazılım programının geliştirilmesi ve uygulanmasının değerlendirilmesi</dc:title>
                     <dc:title>Development and evaluation of a software program specifically designed for music courses within the framework of primary education curriculum</dc:title>
                     <dc:creator>Kibici, Volkan Burak</dc:creator>

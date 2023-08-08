@@ -5,7 +5,7 @@ new gridjs.Grid({
     columns: ["Location", "Change Frequency", "Priority"],
     server: {
       url:
-        "https://acikerisim.erbakan.edu.tr/oai/request?verb=ListRecords&resumptionToken=oai_dc////100",
+        "https://kadirkatirci.github.io/oai-pmh_api-table/src/api.xml",
       handle: (res) => {
         return res
           .text()
