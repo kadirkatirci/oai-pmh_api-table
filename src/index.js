@@ -19,3 +19,5 @@ const grid = new Grid({
       }
     }
   });
+
+  render(document.getElementById("wrapper"));
