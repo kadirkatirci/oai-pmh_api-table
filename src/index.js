@@ -11,7 +11,7 @@ new gridjs.Grid({
           return res.text().then(str => (new window.DOMParser()).parseFromString(str, "text/xml"));
         },
         then: data => {
-          return Array.from(data.querySelectorAll(' +  val  + '))
+          return Array.from(data.querySelectorAll(' +  krkt  + '))
             .map(row => [
               row.querySelector('type').innerHTML,
               row.querySelector('format').innerHTML,
