@@ -1,25 +1,32 @@
-<oai_dc>
-    <type>artryicle</type>
-    <language>aatya</language>
-    <format>applihhcation/pdf</format>
-</oai_dc>
-<oai_dc>
-    <type>fhgsh</type>
-    <language>hdghd</language>
-    <format>dghgfh/pdf</format>
-</oai_dc>
-<oai_dc>
-    <type>dfghs</type>
-    <language>aahga</language>
-    <format>applfhication/pdf</format>
-</oai_dc>
-<oai_dc>
-    <type>artiffhcle</type>
-    <language>aahfha</language>
-    <format>applicfhfhation/pdf</format>
-</oai_dc>
-<oai_dc>
-    <type>dsbgb</type>
-    <language>bbbb</language>
-    <format>fdgsdg</format>
-</oai_dc>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <oai_dc>
+        <type>artryicle</type>
+        <language>aatya</language>
+        <format>applihhcation/pdf</format>
+    </oai_dc>
+    <oai_dc>
+        <type>fhgsh</type>
+        <language>hdghd</language>
+        <format>dghgfh/pdf</format>
+    </oai_dc>
+    <oai_dc>
+        <type>dfghs</type>
+        <language>aahga</language>
+        <format>applfhication/pdf</format>
+    </oai_dc>
+    <oai_dc>
+        <type>artiffhcle</type>
+        <language>aahfha</language>
+        <format>applicfhfhation/pdf</format>
+    </oai_dc>
+    <oai_dc>
+        <type>dsbgb</type>
+        <language>bbbb</language>
+        <format>fdgsdg</format>
+    </oai_dc>
+</urlset>
