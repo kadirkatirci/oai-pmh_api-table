@@ -1,3 +1,5 @@
+var krkt = "oai_dc:dc";
+
 new gridjs.Grid({
     sort: true,
     search: true,
@@ -9,7 +11,7 @@ new gridjs.Grid({
           return res.text().then(str => (new window.DOMParser()).parseFromString(str, "text/xml"));
         },
         then: data => {
-          return Array.from(data.querySelectorAll(["oai_dc:dc"]))
+          return Array.from(data.querySelectorAll(' +  val  + '))
             .map(row => [
               row.querySelector('type').innerHTML,
               row.querySelector('format').innerHTML,
