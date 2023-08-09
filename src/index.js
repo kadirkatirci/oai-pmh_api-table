@@ -1,7 +1,7 @@
 new gridjs.Grid({
     sort: true,
     search: true,
-    pagination: true,
+    pagination: false,
     columns: ["Location", "Change Frequency", "Priority"],
     server: {
         url: 'https://kadirkatirci.github.io/oai-pmh_api-table/src/api.xml',
