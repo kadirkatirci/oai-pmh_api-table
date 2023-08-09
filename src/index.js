@@ -1,4 +1,4 @@
-var krkt = "oai_dc:dc";
+var krkt = "oai_dc\\:dc";
 
 new gridjs.Grid({
     sort: true,
